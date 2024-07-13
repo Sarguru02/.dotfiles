@@ -1,0 +1,15 @@
+acpi
+dbus-python
+maim
+xclip
+brightnessctl 
+pulseaudio
+pavucontrol
+networkmanager
+network-manager-applet
+alsa-utils
+bluez-utils
+pulseaudio-bluetooth
+pulseaudio-alsa
+amixer
+xdotool

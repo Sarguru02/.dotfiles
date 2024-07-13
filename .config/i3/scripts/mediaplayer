@@ -1,0 +1,48 @@
+#!/bin/bash
+
+# Check if mpc --port 6609 is installed
+if ! command -v mpc --port 6609 &> /dev/null; then
+    echo "Error: mpc --port 6609 is not installed. Please install mpc to use this script."
+    exit 1
+fi
+
+# Function to handle button clicks
+handle_buttons() {
+    case "$1" in
+        1)
+            mpc --port 6609 toggle &>/dev/null
+            ;;
+        2)
+            mpc --port 6609 prev &>/dev/null
+            ;;
+        3)
+            mpc --port 6609 next &>/dev/null
+            ;;
+        4)
+            mpc --port 6609 volume +10 &>/dev/null
+            ;;
+        5)
+            mpc --port 6609 volume -10 &>/dev/null
+            ;;
+        *)
+            echo "Invalid button click."
+            ;;
+    esac
+}
+
+# Get current playing track
+current_track=$(mpc --port 6609 current)
+
+# Check if there's a current track playing
+if [ -z "$current_track" ]; then
+    exit 0
+else
+    echo "$current_track"
+fi
+
+# Handle button click if BLOCK_BUTTON is set
+if [ -n "$BLOCK_BUTTON" ]; then
+    handle_buttons "$BLOCK_BUTTON"
+fi
+
+exit 0
