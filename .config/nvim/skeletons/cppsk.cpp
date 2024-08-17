@@ -1,5 +1,6 @@
 /* clang-format off */
 #include <bits/stdc++.h>
+#include <unordered_map>
 using namespace std;
 
 template<typename A, typename B> ostream& operator<<(ostream &os, const pair<A, B> &p) { return os << '(' << p.first << ", " << p.second << ')'; }
@@ -23,12 +24,10 @@ const ll MOD = 1e9 + 7;
 const ll INF = 1e9;
 const ld EPS = 1e-9;
 
-
-
-void solve() {
-    
-}
 /* clang-format on */
+void solve() {
+}
+
 int main() {
 #ifndef ONLINE_JUDGE
   freopen("input.txt", "r", stdin);
@@ -38,7 +37,7 @@ int main() {
   cin.tie(0);
   cout.tie(0);
   int tc = 1;
-  // cin >> tc;
+  cin >> tc;
   for (int t = 1; t <= tc; t++) {
     // cout << "Case #" << t << ": ";
     solve();

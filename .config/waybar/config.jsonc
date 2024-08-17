@@ -47,9 +47,7 @@
            "custom/cava",
         ],
         "modules-center": [
-            "custom/euro",
             "hyprland/workspaces"
-
         ],
         "modules-right": [
             "custom/media",

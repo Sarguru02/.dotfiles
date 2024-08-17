@@ -1,5 +1,5 @@
 -- relaxing keymap
-vim.keymap.set("i", "jj", "<Esc>")
+vim.keymap.set("i", "jk", "<Esc>")
 
 
 -- needed keymap

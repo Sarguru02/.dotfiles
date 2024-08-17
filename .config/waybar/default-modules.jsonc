@@ -40,31 +40,28 @@
     "exec": "~/.config/waybar/scripts/waybar-cava.sh",
     "return-type": "text"
   },
-  "custom/euro": {
-    "exec": "/home/papa/WaybarFixtures/myenv/bin/python /home/papa/WaybarFixtures/main.py",
-    "interval": 2,
-    "tooltip": true,
-    "return-type": "json"
-  },
   "tray": {
     "icon-size": 18,
     "spacing": 0
   },
 "custom/media": {
         "format": "{icon} {}",
-        "return-type": "json",
+        // "return-type": "json",
         "max-length": 50,      
         "format-icons": {
         "spotify_player": "<span foreground='#9ECE6A'></span> ",
         "default": "<span foreground='#BB9AF7'>🎵</span> "
         },
-        "on-click-right":"playerctl --player=spotify_player play-pause",
-        "on-click":"playerctl play-pause",
-        "on-scroll-up":"playerctl previous",
+        "on-click":"mpc --port 6609 toggle &>/dev/null",
+        "on-click-right":"mpc --port 6609 next &>/dev/null",
         "on-scroll-down":"playerctl next",
         "escape": true,
-        "exec-if": "pgrep spotify_player",
-        "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" // Script in resources folder                    // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name                                                                                                               
+        // "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null",  // Script in resources folder                    // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name                                                                                                               
+		// "exec":"echo hello"
+		"exec": "$HOME/.config/waybar/scripts/mediaplayer_waybar"
+		// "exec": "playerctl metadata --format '{{playerName}} {{status}} {{title}} {{artist}} {{album}} {{mpris:artUrl}}'"
+
+
 },
   "clock": {
     "format": "  {:%I:%M %p}  ",
@@ -204,7 +201,6 @@
     },
     "modules": [
       "backlight",
-      "backlight/slider"
     ]
   },
   //FOR POWER GROUP
@@ -221,7 +217,7 @@
   "custom/lock": {
     "format": "󰌾",
     "tooltip": false,
-    "on-click": "gtklock"
+    "on-click": "hyprlock"
   },
   "custom/reboot": {
     "format": "󰜉",
@@ -249,7 +245,6 @@
     },
     "modules": [
       "pulseaudio",
-      "pulseaudio/slider"
     ]
   },
   "group/audio": {
