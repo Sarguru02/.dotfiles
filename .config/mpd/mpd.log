@@ -1,0 +1,2395 @@
+Feb 23 15:59 : exception: Failed to open '/home/sarguru/.mpd/mpdstate': No such file or directory
+Feb 23 16:13 : update: added /Josh Hutcherson Whistle (mini loop).mp3
+Feb 23 16:14 : player: played "Josh Hutcherson Whistle (mini loop).mp3"
+Feb 23 16:14 : player: played "Josh Hutcherson Whistle (mini loop).mp3"
+Feb 23 16:40 : update: added /naruto_lofi.mp3
+Feb 23 16:40 : player: played "naruto_lofi.mp3"
+Feb 23 17:17 : update: added /As It Was.mp3
+Feb 23 17:26 : update: added /Ed Sheeran - Perfect [Official Lyric Video].mp3
+Feb 23 17:27 : player: played "naruto_lofi.mp3"
+Feb 23 17:31 : update: added /The Weeknd - Starboy (Audio) ft. Daft Punk.mp3
+Feb 23 17:33 : update: added /OneRepublic - I Aint Worried (From Top Gun Maverick) [Official Music Video].mp3
+Feb 23 17:34 : update: added /Alec Benjamin - Let Me Down Slowly [Official Music Video].mp3
+Feb 23 17:49 : update: added /Sparkle (English Version).mp3
+Feb 23 17:51 : player: played "As It Was.mp3"
+Feb 23 17:55 : player: played "Ed Sheeran - Perfect [Official Lyric Video].mp3"
+Feb 23 17:57 : player: played "OneRepublic - I Aint Worried (From Top Gun Maverick) [Official Music Video].mp3"
+Feb 23 18:04 : player: played "Sparkle (English Version).mp3"
+Feb 23 18:08 : player: played "The Weeknd - Starboy (Audio) ft. Daft Punk.mp3"
+Feb 23 18:23 : player: played "Josh Hutcherson Whistle (mini loop).mp3"
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 24 11:20 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 24 11:20 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 24 11:20 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 24 11:20 : update: added [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Feb 24 11:20 : exception: No such directory
+Feb 24 11:26 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3"
+Feb 24 11:30 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3"
+Feb 24 11:34 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 24 11:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 24 11:35 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 24 11:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 24 11:35 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3"
+Feb 24 11:39 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3"
+Feb 24 11:42 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3"
+Feb 24 11:45 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3"
+Feb 24 11:49 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3"
+Feb 24 11:58 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3"
+Feb 24 12:03 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3"
+Feb 24 12:06 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] double take.mp3"
+Feb 24 12:10 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3"
+Feb 24 12:14 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3"
+Feb 24 12:17 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3"
+Feb 24 12:20 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3"
+Feb 24 12:24 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3"
+Feb 24 12:28 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3"
+Feb 24 12:32 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3"
+Feb 24 12:35 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3"
+Feb 24 12:38 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3"
+Feb 24 12:42 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3"
+Feb 24 12:45 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3"
+Feb 24 12:49 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3"
+Feb 24 12:52 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3"
+Feb 24 12:55 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3"
+Feb 24 12:58 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3"
+Feb 24 13:01 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 24 13:58 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3"
+Feb 24 14:02 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3"
+Feb 24 14:05 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3"
+Feb 24 14:09 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3"
+Feb 24 14:12 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3"
+Feb 24 14:16 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3"
+Feb 24 14:19 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3"
+Feb 24 14:23 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3"
+Feb 24 14:27 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Ava.mp3"
+Feb 24 14:32 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3"
+Feb 24 14:40 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Stan.mp3"
+Feb 24 14:44 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3"
+Feb 24 14:48 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3"
+Feb 24 14:55 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3"
+Feb 24 17:14 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3"
+Feb 24 17:18 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3"
+Feb 24 17:21 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3"
+Feb 24 17:24 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3"
+Feb 24 17:28 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3"
+Feb 24 17:32 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3"
+Feb 24 17:36 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3"
+Feb 24 17:39 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3"
+Feb 24 17:42 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3"
+Feb 24 17:46 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3"
+Feb 24 17:49 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3"
+Feb 24 17:53 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3"
+Feb 24 17:56 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3"
+Feb 24 17:59 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3"
+Feb 24 18:00 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 24 18:00 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3"
+Feb 24 23:22 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3"
+Feb 25 10:50 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3"
+Feb 26 11:55 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3"
+Feb 26 11:58 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 12:30 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 12:30 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 12:30 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 12:31 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 12:31 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 12:31 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 12:33 : exception: Failed to create /home/sarguru/.mpd/mpdstate: No such file or directory
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 26 12:38 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 12:38 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 12:38 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 12:38 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 26 12:38 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Feb 26 12:38 : exception: Failed to save database: Failed to create /home/sarguru/.mpd/mpd.db: No such file or directory
+Feb 26 12:39 : exception: Failed to create /home/sarguru/.mpd/mpdstate: No such file or directory
+Feb 26 12:39 : player: played "[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3"
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 26 12:57 : update: removing [SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 12:57 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 12:57 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 12:57 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 26 12:57 : update: added playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 14:19 : player: played "playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3"
+Feb 26 14:20 : player: played "playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3"
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 26 14:23 : update: removing playlists/[SPOTIFY-DOWNLOADER.COM] Moody/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 14:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 14:23 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 14:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 26 14:23 : update: added English/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Hurts So Good.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Arcade.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] All Time Low.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Runaway.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Hymn for the Weekend.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] In The End - Mellen Gi Remix.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Hurtless.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Halo.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Infinity.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Heat Waves.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] double take.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Can We Kiss Forever?.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Be Alright.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Sparkle - English Version.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Umbrella.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Too Good At Goodbyes.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Stan.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Atlantis.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Ava.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Where's My Love.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Something to Someone.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] See You Again (feat. Charlie Puth).mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Say Goodbye.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Let Me Down Slowly.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] N i g h t C h a n g e s.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Moral of the Story.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] lovely (with Khalid).mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] i wanna be yours x summer time sadness (speed).mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Love Is Gone - Acoustic.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Another Love.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Me And My Broken Heart.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Into Your Arms (feat. Ava Max).mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] Under The Influence.mp3
+Feb 26 14:33 : update: removing English/[SPOTIFY-DOWNLOADER.COM] In The Stars.mp3
+Feb 26 14:33 : update: added English/All Time Low.mp3
+Feb 26 14:33 : update: added English/Another Love.mp3
+Feb 26 14:33 : update: added English/Arcade.mp3
+Feb 26 14:33 : update: added English/Atlantis.mp3
+Feb 26 14:33 : update: added English/Ava.mp3
+Feb 26 14:33 : update: added English/Be Alright.mp3
+Feb 26 14:33 : update: added English/Dandelions.mp3
+Feb 26 14:33 : update: added English/double take.mp3
+Feb 26 14:33 : update: added English/Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Feb 26 14:33 : update: added English/D u s k T i l l D a w n (slowed reverb).mp3
+Feb 26 14:33 : update: added English/Halo.mp3
+Feb 26 14:33 : update: added English/Heat Waves.mp3
+Feb 26 14:33 : update: added English/Hurtless.mp3
+Feb 26 14:33 : update: added English/Hurts So Good.mp3
+Feb 26 14:33 : update: added English/Hymn for the Weekend.mp3
+Feb 26 14:33 : update: added English/Infinity.mp3
+Feb 26 14:33 : update: added English/In The End - Mellen Gi Remix.mp3
+Feb 26 14:33 : update: added English/In The Stars.mp3
+Feb 26 14:33 : update: added English/Into Your Arms (feat. Ava Max).mp3
+Feb 26 14:33 : update: added English/I Wanna Be Yours.mp3
+Feb 26 14:33 : update: added English/i wanna be yours x summer time sadness (speed).mp3
+Feb 26 14:33 : update: added English/Let Me Down Slowly.mp3
+Feb 26 14:33 : update: added English/Love Is Gone - Acoustic.mp3
+Feb 26 14:33 : update: added English/lovely (with Khalid).mp3
+Feb 26 14:33 : update: added English/Me And My Broken Heart.mp3
+Feb 26 14:33 : update: added English/Moral of the Story.mp3
+Feb 26 14:33 : update: added English/N i g h t C h a n g e s.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 14:33 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 14:33 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 14:33 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 14:33 : update: added English/Runaway.mp3
+Feb 26 14:33 : update: added English/Say Goodbye.mp3
+Feb 26 14:33 : update: added English/See You Again (feat. Charlie Puth).mp3
+Feb 26 14:33 : update: added English/Something to Someone.mp3
+Feb 26 14:33 : update: added English/Sparkle - English Version.mp3
+Feb 26 14:33 : update: added English/Stan.mp3
+Feb 26 14:33 : update: added English/Sweater Weather.mp3
+Feb 26 14:33 : update: added English/Too Good At Goodbyes.mp3
+Feb 26 14:33 : update: added English/Umbrella.mp3
+Feb 26 14:33 : update: added English/Under The Influence.mp3
+Feb 26 14:33 : update: added English/Where's My Love.mp3
+Feb 26 14:33 : update: added English/Can_we_kiss_forever.mp3
+Feb 26 14:34 : exception: Playlist already exists
+Feb 26 14:35 : player: played "English/Hymn for the Weekend.mp3"
+Feb 26 14:39 : player: played "English/Hymn for the Weekend.mp3"
+Feb 26 15:09 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Feb 26 15:35 : player: played "English/Runaway.mp3"
+Feb 26 15:40 : player: played "English/I Wanna Be Yours.mp3"
+Feb 26 15:41 : exception: Bad playlist name
+Feb 26 15:44 : player: played "English/Arcade.mp3"
+Feb 26 15:50 : player: played "English/Be Alright.mp3"
+Feb 26 15:54 : player: played "English/All Time Low.mp3"
+Feb 26 15:57 : player: played "English/Can_we_kiss_forever.mp3"
+Feb 26 16:02 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Feb 26 16:05 : player: played "English/double take.mp3"
+Feb 26 16:08 : update: removing The Weeknd - Starboy (Audio) ft. Daft Punk.mp3
+Feb 26 16:08 : update: removing Sparkle (English Version).mp3
+Feb 26 16:08 : update: removing OneRepublic - I Aint Worried (From Top Gun Maverick) [Official Music Video].mp3
+Feb 26 16:08 : update: removing naruto_lofi.mp3
+Feb 26 16:08 : update: removing Josh Hutcherson Whistle (mini loop).mp3
+Feb 26 16:08 : update: removing Ed Sheeran - Perfect [Official Lyric Video].mp3
+Feb 26 16:08 : update: removing As It Was.mp3
+Feb 26 16:08 : update: removing Alec Benjamin - Let Me Down Slowly [Official Music Video].mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:08 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 16:08 : update: added English/as_it_was.mp3
+Feb 26 16:08 : update: added English/naruto_lofi.mp3
+Feb 26 16:08 : update: added English/I_Aint_Worried.mp3
+Feb 26 16:08 : update: added English/Starboy.mp3
+Feb 26 16:08 : player: played "English/Heat Waves.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:08 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 16:09 : exception: Playlist already exists
+Feb 26 16:12 : player: played "English/I_Aint_Worried.mp3"
+Feb 26 16:16 : player: played "English/Starboy.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:17 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Adiye - From "Bachelor".mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Uyire.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Kadhaippoma (From "Oh My Kadavule").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Mudhal Nee Mudivum Nee Title Track (From "Mudhal Nee Mudivum Nee").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Kanave Kanave.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Parayuvaan - From "Ishq".mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Ennadi Maayavi Nee (From "VadaChennai").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Yaen Ennai Pirindhaai - Male.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Ennodu Nee Irundhaal.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Nee Kavithaigala.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Thaarame Thaarame.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Yaanji - From "Vikram Vedha".mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Yennai Maatrum Kadhale (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] The Life of Ram.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Devaralan Aattam.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Idhazhin Oram - The Innocence of Love.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Chinnanjiru Nilave.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] En Iniya Thanimaye.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Anbae Peranbae.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Yaayum.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Veera Raja Veera.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Maruvaarthai (From "Enai Noki Paayum Thota").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Nee Paartha Vizhigal - The Touch of Love.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Theethiriyaai (From "Brahmastra (Tamil)").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Mayakkama Kalakkama (From "Thiruchitrambalam").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Kannaana Kanne (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Po Nee Po - The Pain of Love.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Nenjukkul Peidhidum.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Vizhi Moodi.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Kadhale Kadhale.mp3
+Feb 26 16:17 : update: added Tamil/[SPOTIFY-DOWNLOADER.COM] Pookkal Pookkum.mp3
+Feb 26 16:17 : player: played "English/Starboy.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:17 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Uyire.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Theethiriyaai (From "Brahmastra (Tamil)").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] En Iniya Thanimaye.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Yaayum.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Veera Raja Veera.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Chinnanjiru Nilave.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Devaralan Aattam.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Parayuvaan - From "Ishq".mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Anbae Peranbae.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Mudhal Nee Mudivum Nee Title Track (From "Mudhal Nee Mudivum Nee").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Mayakkama Kalakkama (From "Thiruchitrambalam").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Nee Kavithaigala.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Pookkal Pookkum.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Kadhaippoma (From "Oh My Kadavule").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Thaarame Thaarame.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Kadhale Kadhale.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Ennodu Nee Irundhaal.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Maruvaarthai (From "Enai Noki Paayum Thota").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Kanave Kanave.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Vizhi Moodi.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Adiye - From "Bachelor".mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Yaen Ennai Pirindhaai - Male.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] The Life of Ram.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Po Nee Po - The Pain of Love.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Nee Paartha Vizhigal - The Touch of Love.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Idhazhin Oram - The Innocence of Love.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Nenjukkul Peidhidum.mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Ennadi Maayavi Nee (From "VadaChennai").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Kannaana Kanne (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Yennai Maatrum Kadhale (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:17 : update: removing Tamil/[SPOTIFY-DOWNLOADER.COM] Yaanji - From "Vikram Vedha".mp3
+Feb 26 16:17 : update: added Tamil/Adiye - From "Bachelor".mp3
+Feb 26 16:17 : update: added Tamil/Anbae Peranbae.mp3
+Feb 26 16:17 : update: added Tamil/Chinnanjiru Nilave.mp3
+Feb 26 16:17 : update: added Tamil/Devaralan Aattam.mp3
+Feb 26 16:17 : update: added Tamil/En Iniya Thanimaye.mp3
+Feb 26 16:17 : update: added Tamil/Ennadi Maayavi Nee (From "VadaChennai").mp3
+Feb 26 16:17 : update: added Tamil/Ennodu Nee Irundhaal.mp3
+Feb 26 16:17 : update: added Tamil/Idhazhin Oram - The Innocence of Love.mp3
+Feb 26 16:17 : update: added Tamil/Kadhaippoma (From "Oh My Kadavule").mp3
+Feb 26 16:17 : update: added Tamil/Kadhale Kadhale.mp3
+Feb 26 16:17 : update: added Tamil/Kanave Kanave.mp3
+Feb 26 16:17 : update: added Tamil/Kannaana Kanne (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:17 : update: added Tamil/Maruvaarthai (From "Enai Noki Paayum Thota").mp3
+Feb 26 16:17 : update: added Tamil/Mayakkama Kalakkama (From "Thiruchitrambalam").mp3
+Feb 26 16:17 : update: added Tamil/Mudhal Nee Mudivum Nee Title Track (From "Mudhal Nee Mudivum Nee").mp3
+Feb 26 16:17 : update: added Tamil/Nee Kavithaigala.mp3
+Feb 26 16:17 : update: added Tamil/Nee Paartha Vizhigal - The Touch of Love.mp3
+Feb 26 16:17 : update: added Tamil/Nenjukkul Peidhidum.mp3
+Feb 26 16:17 : update: added Tamil/Parayuvaan - From "Ishq".mp3
+Feb 26 16:17 : update: added Tamil/Po Nee Po - The Pain of Love.mp3
+Feb 26 16:17 : update: added Tamil/Pookkal Pookkum.mp3
+Feb 26 16:17 : update: added Tamil/Thaarame Thaarame.mp3
+Feb 26 16:17 : update: added Tamil/Theethiriyaai (From "Brahmastra (Tamil)").mp3
+Feb 26 16:17 : update: added Tamil/The Life of Ram.mp3
+Feb 26 16:17 : update: added Tamil/Uyire.mp3
+Feb 26 16:17 : update: added Tamil/Veera Raja Veera.mp3
+Feb 26 16:17 : update: added Tamil/Vizhi Moodi.mp3
+Feb 26 16:17 : update: added Tamil/Yaanji - From "Vikram Vedha".mp3
+Feb 26 16:17 : update: added Tamil/Yaayum.mp3
+Feb 26 16:17 : update: added Tamil/Yaen Ennai Pirindhaai - Male.mp3
+Feb 26 16:17 : update: added Tamil/Yennai Maatrum Kadhale (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:19 : player: played "Tamil/Idhazhin Oram - The Innocence of Love.mp3"
+Feb 26 16:24 : exception: Not playing
+Feb 26 16:24 : exception: Not playing
+Feb 26 16:25 : player: played "Tamil/Maruvaarthai (From "Enai Noki Paayum Thota").mp3"
+Feb 26 16:27 : player: played "Tamil/Kadhale Kadhale.mp3"
+Feb 26 16:33 : update: removing Tamil/Yaanji - From "Vikram Vedha".mp3
+Feb 26 16:33 : update: removing Tamil/Yennai Maatrum Kadhale (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:33 : update: removing Tamil/Kannaana Kanne (From "Naanum Rowdy Dhaan").mp3
+Feb 26 16:33 : update: removing Tamil/Ennadi Maayavi Nee (From "VadaChennai").mp3
+Feb 26 16:33 : update: removing Tamil/Nenjukkul Peidhidum.mp3
+Feb 26 16:33 : update: removing Tamil/Uyire.mp3
+Feb 26 16:33 : update: removing Tamil/Theethiriyaai (From "Brahmastra (Tamil)").mp3
+Feb 26 16:33 : update: removing Tamil/En Iniya Thanimaye.mp3
+Feb 26 16:33 : update: removing Tamil/Yaayum.mp3
+Feb 26 16:33 : update: removing Tamil/Veera Raja Veera.mp3
+Feb 26 16:33 : update: removing Tamil/Chinnanjiru Nilave.mp3
+Feb 26 16:33 : update: removing Tamil/Devaralan Aattam.mp3
+Feb 26 16:33 : update: removing Tamil/Parayuvaan - From "Ishq".mp3
+Feb 26 16:33 : update: removing Tamil/Anbae Peranbae.mp3
+Feb 26 16:33 : update: removing Tamil/Mudhal Nee Mudivum Nee Title Track (From "Mudhal Nee Mudivum Nee").mp3
+Feb 26 16:33 : update: removing Tamil/Mayakkama Kalakkama (From "Thiruchitrambalam").mp3
+Feb 26 16:33 : update: removing Tamil/Nee Kavithaigala.mp3
+Feb 26 16:33 : update: removing Tamil/Pookkal Pookkum.mp3
+Feb 26 16:33 : update: removing Tamil/Kadhaippoma (From "Oh My Kadavule").mp3
+Feb 26 16:33 : update: removing Tamil/Thaarame Thaarame.mp3
+Feb 26 16:33 : update: removing Tamil/Kadhale Kadhale.mp3
+Feb 26 16:33 : update: removing Tamil/Ennodu Nee Irundhaal.mp3
+Feb 26 16:33 : update: removing Tamil/Maruvaarthai (From "Enai Noki Paayum Thota").mp3
+Feb 26 16:33 : update: removing Tamil/Kanave Kanave.mp3
+Feb 26 16:33 : update: removing Tamil/Vizhi Moodi.mp3
+Feb 26 16:33 : update: removing Tamil/Adiye - From "Bachelor".mp3
+Feb 26 16:33 : update: removing Tamil/Yaen Ennai Pirindhaai - Male.mp3
+Feb 26 16:33 : update: removing Tamil/The Life of Ram.mp3
+Feb 26 16:33 : update: removing Tamil/Po Nee Po - The Pain of Love.mp3
+Feb 26 16:33 : update: removing Tamil/Nee Paartha Vizhigal - The Touch of Love.mp3
+Feb 26 16:33 : update: removing Tamil/Idhazhin Oram - The Innocence of Love.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:33 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:33 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:33 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 16:33 : exception: Bad song index
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:34 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:34 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:34 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 16:34 : player: played "Tamil/Kadhale Kadhale.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:34 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:34 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:34 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Feb 26 16:34 : player: played "English/Hurts So Good.mp3"
+Feb 26 16:34 : exception: Bad song index
+Feb 26 16:36 : exception: No such directory
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Feb 26 16:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Feb 26 16:36 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Feb 26 16:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 04 13:14 : player: played "English/I_Aint_Worried.mp3"
+Mar 04 13:21 : player: played "English/Starboy.mp3"
+Mar 04 13:28 : player: played "English/Starboy.mp3"
+Mar 04 13:31 : player: played "English/I Wanna Be Yours.mp3"
+Mar 04 13:42 : player: played "English/Arcade.mp3"
+Mar 04 22:51 : player: played "English/Arcade.mp3"
+Mar 05 05:54 : player: played "English/Arcade.mp3"
+Mar 05 10:18 : player: played "English/Arcade.mp3"
+Mar 05 14:56 : player: played "English/Arcade.mp3"
+Mar 05 18:48 : player: played "English/Heat Waves.mp3"
+Mar 05 18:52 : player: played "English/Infinity.mp3"
+Mar 05 18:56 : player: played "English/Halo.mp3"
+Mar 05 18:59 : player: played "English/Hurtless.mp3"
+Mar 05 19:05 : player: played "English/Sweater Weather.mp3"
+Mar 05 19:05 : exception: Bad song index
+Mar 05 19:05 : exception: Bad song index
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 05 19:05 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 05 19:05 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 05 19:05 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 05 20:11 : player: played "English/i wanna be yours x summer time sadness (speed).mp3"
+Mar 05 20:11 : player: played "English/lovely (with Khalid).mp3"
+Mar 05 20:16 : player: played "English/I Wanna Be Yours.mp3"
+Mar 05 20:17 : player: played "English/as_it_was.mp3"
+Mar 05 20:20 : player: played "English/as_it_was.mp3"
+Mar 05 20:23 : player: played "English/I_Aint_Worried.mp3"
+Mar 05 20:27 : player: played "English/Starboy.mp3"
+Mar 05 20:30 : player: played "English/Arcade.mp3"
+Mar 05 20:34 : player: played "English/Heat Waves.mp3"
+Mar 05 20:38 : player: played "English/Under The Influence.mp3"
+Mar 05 20:42 : player: played "English/Another Love.mp3"
+Mar 05 20:45 : player: played "English/lovely (with Khalid).mp3"
+Mar 05 20:48 : player: played "English/Let Me Down Slowly.mp3"
+Mar 06 18:59 : player: played "English/I_Aint_Worried.mp3"
+Mar 06 19:23 : player: played "English/naruto_lofi.mp3"
+Mar 06 21:03 : player: played "English/Starboy.mp3"
+Mar 06 21:07 : player: played "English/Infinity.mp3"
+Mar 06 21:10 : player: played "English/Halo.mp3"
+Mar 06 21:13 : player: played "English/Hurtless.mp3"
+Mar 06 21:43 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 06 23:06 : player: played "English/Sweater Weather.mp3"
+Mar 07 08:48 : player: played "English/Sweater Weather.mp3"
+Mar 07 11:19 : player: played "English/Sweater Weather.mp3"
+Mar 07 13:32 : player: played "English/Sweater Weather.mp3"
+Mar 07 15:00 : player: played "English/Sweater Weather.mp3"
+Mar 07 22:20 : player: played "English/Sweater Weather.mp3"
+Mar 08 10:35 : player: played "English/Sweater Weather.mp3"
+Mar 08 12:01 : player: played "English/Sweater Weather.mp3"
+Mar 08 12:58 : player: played "English/Sweater Weather.mp3"
+Mar 08 15:01 : player: played "English/Sweater Weather.mp3"
+Mar 09 23:47 : player: played "English/Sweater Weather.mp3"
+Mar 10 16:34 : player: played "English/Hymn for the Weekend.mp3"
+Mar 10 16:39 : player: played "English/Runaway.mp3"
+Mar 10 16:42 : player: played "English/All Time Low.mp3"
+Mar 10 16:45 : player: played "English/I Wanna Be Yours.mp3"
+Mar 10 16:48 : player: played "English/Arcade.mp3"
+Mar 10 16:52 : player: played "English/Hurts So Good.mp3"
+Mar 10 16:55 : player: played "English/Be Alright.mp3"
+Mar 10 16:58 : player: played "English/Can_we_kiss_forever.mp3"
+Mar 10 17:03 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Mar 10 17:06 : player: played "English/double take.mp3"
+Mar 10 17:10 : player: played "English/Heat Waves.mp3"
+Mar 10 17:14 : player: played "English/Infinity.mp3"
+Mar 10 17:17 : player: played "English/Halo.mp3"
+Mar 10 17:20 : player: played "English/Hurtless.mp3"
+Mar 10 17:24 : player: played "English/Sweater Weather.mp3"
+Mar 10 17:28 : player: played "English/Dusk Till Dawn (feat. Sia) - Radio Edit.mp3"
+Mar 10 17:32 : player: played "English/In The End - Mellen Gi Remix.mp3"
+Mar 10 17:35 : player: played "English/In The Stars.mp3"
+Mar 10 17:38 : player: played "English/Under The Influence.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 10 17:41 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 10 17:41 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 10 17:41 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 10 17:41 : update: added /stay.mp3
+Mar 10 17:41 : player: played "stay.mp3"
+Mar 13 15:43 : player: played "English/Hymn for the Weekend.mp3"
+Mar 13 16:16 : player: played "English/Hymn for the Weekend.mp3"
+Mar 13 23:01 : player: played "English/Hymn for the Weekend.mp3"
+Mar 14 08:50 : player: played "English/Hymn for the Weekend.mp3"
+Mar 14 21:39 : player: played "English/Hymn for the Weekend.mp3"
+Mar 14 21:41 : player: played "English/Hymn for the Weekend.mp3"
+Mar 14 21:44 : player: played "English/Hymn for the Weekend.mp3"
+Mar 15 00:18 : player: played "English/Hymn for the Weekend.mp3"
+Mar 15 13:58 : player: played "English/Hymn for the Weekend.mp3"
+Mar 15 21:17 : player: played "English/Hymn for the Weekend.mp3"
+Mar 15 21:21 : player: played "English/Runaway.mp3"
+Mar 15 21:25 : player: played "English/All Time Low.mp3"
+Mar 15 21:28 : player: played "English/I Wanna Be Yours.mp3"
+Mar 15 21:31 : player: played "English/Arcade.mp3"
+Mar 15 21:34 : player: played "English/Hurts So Good.mp3"
+Mar 15 21:38 : player: played "English/Be Alright.mp3"
+Mar 15 21:41 : player: played "English/Can_we_kiss_forever.mp3"
+Mar 15 21:50 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 15 23:10 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Mar 16 11:19 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Mar 16 12:50 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Mar 16 13:02 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Mar 16 13:38 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Mar 16 21:06 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 17 09:47 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 17 09:47 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 17 09:47 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 17 09:47 : update: added /test.m4a
+Mar 17 09:47 : player: played "English/D u s k T i l l D a w n (slowed reverb).mp3"
+Mar 17 09:47 : player: played "test.m4a"
+Mar 17 10:54 : update: removing stay.mp3
+Mar 17 10:54 : update: removing test.m4a
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 17 10:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 17 10:54 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 17 10:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 17 10:54 : update: added English/stay.mp3
+Mar 17 10:54 : update: added Interstellar/Afraid of Time [6kDaf9aTXqQ].m4a
+Mar 17 10:54 : update: added Interstellar/A Place Among the Stars [nqsm10CTzUw].m4a
+Mar 17 10:54 : update: added Interstellar/Atmospheric Entry [Ff89t2BGFaM].m4a
+Mar 17 10:54 : update: added Interstellar/Cornfield Chase [7GlsxNI4LVI].m4a
+Mar 17 10:54 : update: added Interstellar/Coward [XnKzQRE4Olw].m4a
+Mar 17 10:54 : update: added Interstellar/Day One (Interstellar Theme) [UgkvcWx8oXw].m4a
+Mar 17 10:54 : update: added Interstellar/Detach [O-zP6qdF1x8].m4a
+Mar 17 10:54 : update: added Interstellar/Dreaming of the Crash [FqlpJUvC15E].m4a
+Mar 17 10:54 : update: added Interstellar/Dust [iSQcqtKY1cA].m4a
+Mar 17 10:54 : update: added Interstellar/First Step [55TYgbk4kZs].m4a
+Mar 17 10:54 : update: added Interstellar/Flying Drone [X_eVK-mPbxg].m4a
+Mar 17 10:54 : update: added Interstellar/I'm Going Home [3DwLIlE4xqw].m4a
+Mar 17 10:54 : update: added Interstellar/Imperfect Lock [C4eSxl53-T0].m4a
+Mar 17 10:54 : update: added Interstellar/Message from Home [hLydgs1Ummk].m4a
+Mar 17 10:54 : update: added Interstellar/Mountains [arNkB9vxS3Q].m4a
+Mar 17 10:54 : update: added Interstellar/Murph [s9Hf-yyLsA0].m4a
+Mar 17 10:54 : update: added Interstellar/No Need to Come Back [YGC9DfI0Mr4].m4a
+Mar 17 10:54 : update: added Interstellar/No Time for Caution [2o9KfyPqQzY].m4a
+Mar 17 10:54 : update: added Interstellar/Running Out [ZeXZ5Ja7YBQ].m4a
+Mar 17 10:54 : update: added Interstellar/S.T.A.Y. [MU3EOO4fWQo].m4a
+Mar 17 10:54 : update: added Interstellar/Stay [zVbldiNLalo].m4a
+Mar 17 10:54 : update: added Interstellar/The Wormhole [mksYlcizgw4].m4a
+Mar 17 10:54 : update: added Interstellar/What Happens Now？ [IhDNUQAvoIw].m4a
+Mar 17 10:54 : update: added Interstellar/Where We're Going [39zPuBFPOhE].m4a
+Mar 17 10:54 : update: added Interstellar/Who's They？ [1__63FIOqgQ].m4a
+Mar 17 10:54 : update: added Interstellar/Day One Dark [Rzb2VyjL6XQ].m4a
+Mar 17 10:54 : update: added Interstellar/Day One (Original Demo) [Sj6UATyEJfQ].m4a
+Mar 17 10:54 : update: added Interstellar/Do Not Go Gentle Into That Good Night [-mihz-uTD58].m4a
+Mar 17 10:54 : update: added Interstellar/Organ Variation [H1PZGDh_2Pk].m4a
+Mar 17 10:54 : update: added Interstellar/Tick-Tock [3X7t1mpboco].m4a
+Mar 17 10:54 : update: added BGM/Can_You_Hear_The_Music.m4a
+Mar 17 10:54 : update: added BGM/Quantum_Mechanics.m4a
+Mar 17 10:54 : update: added Tamil/3 - Idhazhin Oram Video ｜ Dhanush, Shruti ｜ Anirudh [lZORMUufA_Y].m4a
+Mar 17 10:54 : update: added Tamil/Aathi [R880kIYf6sA].m4a
+Mar 17 10:54 : update: added Tamil/Oh Penne [J6H6JQHvFMQ].m4a
+Mar 17 10:54 : player: played "Tamil/3 - Idhazhin Oram Video ｜ Dhanush, Shruti ｜ Anirudh [lZORMUufA_Y].m4a"
+Mar 17 10:55 : player: played "Tamil/3 - Idhazhin Oram Video ｜ Dhanush, Shruti ｜ Anirudh [lZORMUufA_Y].m4a"
+Mar 17 10:55 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 17 10:55 : player: played "Interstellar/A Place Among the Stars [nqsm10CTzUw].m4a"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 17 10:59 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 17 10:59 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 17 10:59 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 17 10:59 : update: removing Interstellar/Who's They？ [1__63FIOqgQ].m4a
+Mar 17 10:59 : update: removing Interstellar/Where We're Going [39zPuBFPOhE].m4a
+Mar 17 10:59 : update: removing Interstellar/What Happens Now？ [IhDNUQAvoIw].m4a
+Mar 17 10:59 : update: removing Interstellar/Tick-Tock [3X7t1mpboco].m4a
+Mar 17 10:59 : update: removing Interstellar/The Wormhole [mksYlcizgw4].m4a
+Mar 17 10:59 : update: removing Interstellar/Stay [zVbldiNLalo].m4a
+Mar 17 10:59 : update: removing Interstellar/S.T.A.Y. [MU3EOO4fWQo].m4a
+Mar 17 10:59 : update: removing Interstellar/Running Out [ZeXZ5Ja7YBQ].m4a
+Mar 17 10:59 : update: removing Interstellar/Organ Variation [H1PZGDh_2Pk].m4a
+Mar 17 10:59 : update: removing Interstellar/No Time for Caution [2o9KfyPqQzY].m4a
+Mar 17 10:59 : update: removing Interstellar/No Need to Come Back [YGC9DfI0Mr4].m4a
+Mar 17 10:59 : update: removing Interstellar/Murph [s9Hf-yyLsA0].m4a
+Mar 17 10:59 : update: removing Interstellar/Mountains [arNkB9vxS3Q].m4a
+Mar 17 10:59 : update: removing Interstellar/Message from Home [hLydgs1Ummk].m4a
+Mar 17 10:59 : update: removing Interstellar/Imperfect Lock [C4eSxl53-T0].m4a
+Mar 17 10:59 : update: removing Interstellar/I'm Going Home [3DwLIlE4xqw].m4a
+Mar 17 10:59 : update: removing Interstellar/Flying Drone [X_eVK-mPbxg].m4a
+Mar 17 10:59 : update: removing Interstellar/First Step [55TYgbk4kZs].m4a
+Mar 17 10:59 : update: removing Interstellar/Dust [iSQcqtKY1cA].m4a
+Mar 17 10:59 : update: removing Interstellar/Dreaming of the Crash [FqlpJUvC15E].m4a
+Mar 17 10:59 : update: removing Interstellar/Do Not Go Gentle Into That Good Night [-mihz-uTD58].m4a
+Mar 17 10:59 : update: removing Interstellar/Detach [O-zP6qdF1x8].m4a
+Mar 17 10:59 : update: removing Interstellar/Day One Dark [Rzb2VyjL6XQ].m4a
+Mar 17 10:59 : update: removing Interstellar/Day One (Original Demo) [Sj6UATyEJfQ].m4a
+Mar 17 10:59 : update: removing Interstellar/Day One (Interstellar Theme) [UgkvcWx8oXw].m4a
+Mar 17 10:59 : update: removing Interstellar/Coward [XnKzQRE4Olw].m4a
+Mar 17 10:59 : update: removing Interstellar/Cornfield Chase [7GlsxNI4LVI].m4a
+Mar 17 10:59 : update: removing Interstellar/Atmospheric Entry [Ff89t2BGFaM].m4a
+Mar 17 10:59 : update: removing Interstellar/Afraid of Time [6kDaf9aTXqQ].m4a
+Mar 17 10:59 : update: removing Interstellar/A Place Among the Stars [nqsm10CTzUw].m4a
+Mar 17 10:59 : update: added /Oh Penne [J6H6JQHvFMQ].webm
+Mar 17 10:59 : update: added /3 - Nee Paartha Vizhigal Video ｜ Dhanush, Shruti ｜ Anirudh [_IuJsaMqtqc].webm
+Mar 17 11:00 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:04 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:04 : player: played "3 - Nee Paartha Vizhigal Video ｜ Dhanush, Shruti ｜ Anirudh [_IuJsaMqtqc].webm"
+Mar 17 11:04 : update: removing Oh Penne [J6H6JQHvFMQ].webm
+Mar 17 11:04 : update: removing 3 - Nee Paartha Vizhigal Video ｜ Dhanush, Shruti ｜ Anirudh [_IuJsaMqtqc].webm
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 17 11:04 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 17 11:04 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 17 11:04 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 17 11:04 : update: added /Nee_Paartha_Vizhigal_Video_Dhanush,_Shruti_Anirudh_.webm
+Mar 17 11:04 : update: added /Oh_Penne_.webm
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 17 11:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 17 11:11 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 17 11:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 17 11:11 : update: added Interstellar/Afraid_of_Time.webm
+Mar 17 11:11 : update: added Interstellar/A_Place_Among_the_Stars.webm
+Mar 17 11:11 : update: added Interstellar/Atmospheric_Entry.webm
+Mar 17 11:11 : update: added Interstellar/Cornfield_Chase.webm
+Mar 17 11:11 : update: added Interstellar/Coward.webm
+Mar 17 11:11 : update: added Interstellar/Day_One_Dark.webm
+Mar 17 11:11 : update: added Interstellar/Day_One_(Interstellar_Theme).webm
+Mar 17 11:11 : update: added Interstellar/Day_One_(Original_Demo).webm
+Mar 17 11:11 : update: added Interstellar/Detach.webm
+Mar 17 11:11 : update: added Interstellar/Do_Not_Go_Gentle_Into_That_Good_Night.webm
+Mar 17 11:11 : update: added Interstellar/Dreaming_of_the_Crash.webm
+Mar 17 11:11 : update: added Interstellar/Dust.webm
+Mar 17 11:11 : update: added Interstellar/First_Step.webm
+Mar 17 11:11 : update: added Interstellar/Flying_Drone.webm
+Mar 17 11:11 : update: added Interstellar/I'm_Going_Home.webm
+Mar 17 11:11 : update: added Interstellar/Imperfect_Lock.webm
+Mar 17 11:11 : update: added Interstellar/Message_from_Home.webm
+Mar 17 11:11 : update: added Interstellar/Mountains.webm
+Mar 17 11:11 : update: added Interstellar/Murph.webm
+Mar 17 11:11 : update: added Interstellar/No_Need_to_Come_Back.webm
+Mar 17 11:11 : update: added Interstellar/No_Time_for_Caution.webm
+Mar 17 11:11 : update: added Interstellar/Organ_Variation.webm
+Mar 17 11:11 : update: added Interstellar/Running_Out.webm
+Mar 17 11:11 : update: added Interstellar/Stay.webm
+Mar 17 11:11 : update: added Interstellar/The_Wormhole.webm
+Mar 17 11:11 : update: added Interstellar/Tick-Tock.webm
+Mar 17 11:11 : update: added Interstellar/Where_We're_Going.webm
+Mar 17 11:11 : update: added Interstellar/Who's_They？.webm
+Mar 17 11:11 : update: added Interstellar/STAY.webm
+Mar 17 11:11 : update: added Interstellar/What_Happens_Now.webm
+Mar 17 11:12 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:15 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:15 : player: played "Interstellar/A_Place_Among_the_Stars.webm"
+Mar 17 11:17 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:18 : player: played "Interstellar/Afraid_of_Time.webm"
+Mar 17 11:19 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:19 : player: played "Interstellar/Atmospheric_Entry.webm"
+Mar 17 11:21 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:21 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:21 : player: played "Interstellar/Cornfield_Chase.webm"
+Mar 17 11:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:30 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:30 : player: played "Interstellar/Coward.webm"
+Mar 17 11:35 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:35 : player: played "Interstellar/Day_One_(Interstellar_Theme).webm"
+Mar 17 11:39 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:39 : player: played "Interstellar/Day_One_(Original_Demo).webm"
+Mar 17 11:46 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 17 11:46 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 11:46 : player: played "Interstellar/Day_One_Dark.webm"
+Mar 17 12:24 : player: played "Interstellar/Detach.webm"
+Mar 17 13:24 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 17 23:23 : player: played "Interstellar/Detach.webm"
+Mar 18 12:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 18 12:38 : player: played "Interstellar/Detach.webm"
+Mar 18 12:54 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 18 13:25 : player: played "Interstellar/Detach.webm"
+Mar 18 13:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 18 15:02 : player: played "Interstellar/Detach.webm"
+Mar 19 11:23 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 19 11:30 : player: played "Interstellar/Detach.webm"
+Mar 19 11:30 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 19 12:01 : player: played "Interstellar/Detach.webm"
+Mar 19 13:04 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 19 14:00 : player: played "Interstellar/Detach.webm"
+Mar 19 14:08 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 19 15:02 : player: played "Interstellar/Detach.webm"
+Mar 19 19:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 19 19:34 : player: played "Interstellar/Detach.webm"
+Mar 19 20:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 00:11 : player: played "Interstellar/Detach.webm"
+Mar 20 06:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 07:21 : player: played "Interstellar/Detach.webm"
+Mar 20 08:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 09:31 : player: played "Interstellar/Detach.webm"
+Mar 20 10:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 10:35 : player: played "Interstellar/Detach.webm"
+Mar 20 10:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 13:34 : player: played "Interstellar/Detach.webm"
+Mar 20 13:40 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 13:53 : player: played "Interstellar/Detach.webm"
+Mar 20 13:58 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 14:55 : player: played "Interstellar/Detach.webm"
+Mar 20 17:41 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 20 23:20 : player: played "Interstellar/Detach.webm"
+Mar 21 09:52 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 21 11:13 : player: played "Interstellar/Detach.webm"
+Mar 21 11:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 21 12:00 : player: played "Interstellar/Detach.webm"
+Mar 21 13:56 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 21 14:31 : player: played "Interstellar/Detach.webm"
+Mar 21 14:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 21 14:35 : player: played "Interstellar/Detach.webm"
+Mar 21 14:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 21 15:01 : player: played "Interstellar/Detach.webm"
+Mar 21 20:49 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 21 23:15 : player: played "Interstellar/Detach.webm"
+Mar 22 20:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 22 21:20 : player: played "Interstellar/Detach.webm"
+Mar 23 08:51 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 23 09:13 : player: played "Interstellar/Detach.webm"
+Mar 23 09:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 23 09:22 : player: played "Interstellar/Detach.webm"
+Mar 23 09:23 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 23 11:24 : player: played "Interstellar/Detach.webm"
+Mar 23 12:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 23 15:03 : player: played "Interstellar/Detach.webm"
+Mar 23 18:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 23 19:35 : player: played "Interstellar/Detach.webm"
+Mar 23 20:54 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 23 23:44 : player: played "Interstellar/Detach.webm"
+Mar 24 08:09 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 24 22:34 : player: played "Interstellar/Detach.webm"
+Mar 25 21:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 26 00:18 : player: played "Interstellar/Detach.webm"
+Mar 26 08:51 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 26 11:15 : player: played "Interstellar/Detach.webm"
+Mar 26 12:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 26 18:07 : player: played "Interstellar/Detach.webm"
+Mar 26 20:54 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 26 23:42 : player: played "Interstellar/Detach.webm"
+Mar 27 08:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 27 11:43 : player: played "Interstellar/Detach.webm"
+Mar 27 12:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 27 15:32 : player: played "Interstellar/Detach.webm"
+Mar 27 20:12 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 27 20:14 : player: played "Interstellar/Detach.webm"
+Mar 27 20:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 27 21:53 : player: played "Interstellar/Detach.webm"
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:54 : exception: Bad song index
+Mar 27 21:58 : player: played "English/Hymn for the Weekend.mp3"
+Mar 27 22:02 : player: played "English/Runaway.mp3"
+Mar 27 22:07 : player: played "English/as_it_was.mp3"
+Mar 27 22:10 : player: played "English/I_Aint_Worried.mp3"
+Mar 27 22:38 : player: played "English/Hurts So Good.mp3"
+Mar 28 01:00 : player: played "English/Hurts So Good.mp3"
+Mar 28 06:59 : player: played "English/Hurts So Good.mp3"
+Mar 28 13:26 : player: played "English/Hurts So Good.mp3"
+Mar 28 23:51 : player: played "English/Hurts So Good.mp3"
+Mar 29 11:11 : player: played "English/Hurts So Good.mp3"
+Mar 29 18:15 : player: played "English/Hurts So Good.mp3"
+Mar 29 18:15 : player: played "Tamil/3 - Idhazhin Oram Video ｜ Dhanush, Shruti ｜ Anirudh [lZORMUufA_Y].m4a"
+Mar 29 18:15 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 29 18:18 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 29 18:18 : player: played "BGM/Quantum_Mechanics.m4a"
+Mar 29 18:20 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 29 18:20 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Mar 29 18:28 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 29 18:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 29 18:28 : player: played "Interstellar/Coward.webm"
+Mar 29 18:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Mar 29 18:30 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 29 18:31 : player: played "Interstellar/Cornfield_Chase.webm"
+Mar 29 18:33 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 29 18:34 : player: played "BGM/Quantum_Mechanics.m4a"
+Mar 29 18:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 29 18:35 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Mar 29 23:52 : player: played "Interstellar/Coward.webm"
+Mar 30 15:09 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 30 17:11 : player: played "Interstellar/Coward.webm"
+Mar 30 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 30 19:32 : player: played "Interstellar/Coward.webm"
+Mar 30 20:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 30 21:11 : player: played "Interstellar/Coward.webm"
+Mar 30 21:11 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 30 21:12 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 30 21:16 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Mar 31 00:31 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Mar 31 12:06 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Mar 31 16:10 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Mar 31 16:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Mar 31 16:18 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Mar 31 16:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Mar 31 16:18 : update: added /rasputin.webm
+Mar 31 16:18 : player: played "English/as_it_was.mp3"
+Mar 31 16:18 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Mar 31 23:32 : player: played "rasputin.webm"
+Apr 01 16:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 01 19:29 : player: played "rasputin.webm"
+Apr 01 20:18 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 01 21:21 : player: played "rasputin.webm"
+Apr 01 21:22 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 01 21:22 : player: played "rasputin.webm"
+Apr 01 21:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 01 22:38 : player: played "rasputin.webm"
+Apr 02 20:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 02 23:21 : player: played "rasputin.webm"
+Apr 03 18:25 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 03 20:31 : player: played "rasputin.webm"
+Apr 03 20:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 03 23:40 : player: played "rasputin.webm"
+Apr 04 09:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 04 11:15 : player: played "rasputin.webm"
+Apr 04 15:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 04 15:42 : player: played "rasputin.webm"
+Apr 04 15:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 04 16:48 : player: played "rasputin.webm"
+Apr 04 16:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 04 17:01 : player: played "rasputin.webm"
+Apr 04 21:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 04 21:41 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 04 21:41 : player: played "rasputin.webm"
+Apr 05 22:56 : player: played "English/I_Aint_Worried.mp3"
+Apr 05 23:08 : player: played "English/Hymn for the Weekend.mp3"
+Apr 05 23:14 : player: played "English/Hymn for the Weekend.mp3"
+Apr 05 23:16 : player: played "English/I_Aint_Worried.mp3"
+Apr 05 23:20 : player: played "English/Something to Someone.mp3"
+Apr 05 23:24 : player: played "English/Runaway.mp3"
+Apr 05 23:27 : player: played "English/as_it_was.mp3"
+Apr 05 23:28 : player: played "English/Hurtless.mp3"
+Apr 19 14:14 : player: played "English/as_it_was.mp3"
+Apr 19 15:24 : player: played "English/I_Aint_Worried.mp3"
+Apr 19 17:35 : player: played "English/I_Aint_Worried.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Apr 21 20:04 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Apr 21 20:04 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Apr 21 20:04 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Apr 21 20:04 : update: added English/Wellerman.webm
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Apr 21 20:04 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Apr 21 20:04 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Apr 21 20:04 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Apr 21 20:04 : update: added Tamil/cutie.aac
+Apr 21 20:04 : update: added /kaadhal_aasai.wav
+Apr 21 20:04 : update: added /pirai_thedum.wav
+Apr 21 20:04 : update: added /Recording_47.wav
+Apr 21 20:04 : update: added /Recording_73.wav
+Apr 21 20:04 : update: added /vaseegara.wav
+Apr 21 20:06 : player: played "English/I_Aint_Worried.mp3"
+Apr 21 20:08 : player: played "English/I Wanna Be Yours.mp3"
+Apr 26 16:36 : player: played "English/Hymn for the Weekend.mp3"
+Apr 26 16:36 : exception: Bad playlist name
+Apr 26 16:40 : player: played "English/I Wanna Be Yours.mp3"
+Apr 26 16:45 : player: played "English/Hymn for the Weekend.mp3"
+Apr 26 16:48 : player: played "English/as_it_was.mp3"
+Apr 26 16:51 : player: played "English/Arcade.mp3"
+Apr 26 16:54 : player: played "English/Something to Someone.mp3"
+Apr 26 16:57 : player: played "English/Hurts So Good.mp3"
+Apr 26 17:03 : player: played "English/Me And My Broken Heart.mp3"
+Apr 26 17:10 : player: played "English/Infinity.mp3"
+Apr 26 17:14 : player: played "English/Moral of the Story.mp3"
+Apr 26 17:17 : player: played "English/In The Stars.mp3"
+Apr 26 17:58 : player: played "English/Under The Influence.mp3"
+Apr 26 18:02 : player: played "English/Heat Waves.mp3"
+Apr 26 18:05 : player: played "English/Arcade.mp3"
+Apr 26 18:09 : player: played "English/Hymn for the Weekend.mp3"
+Apr 27 00:00 : player: played "English/Into Your Arms (feat. Ava Max).mp3"
+Apr 27 23:08 : player: played "English/Into Your Arms (feat. Ava Max).mp3"
+Apr 28 12:21 : player: played "English/Into Your Arms (feat. Ava Max).mp3"
+Apr 28 20:42 : player: played "English/i wanna be yours x summer time sadness (speed).mp3"
+Apr 28 20:45 : player: played "English/Under The Influence.mp3"
+Apr 28 20:49 : player: played "English/Hymn for the Weekend.mp3"
+Apr 28 20:52 : player: played "English/Say Goodbye.mp3"
+Apr 28 20:56 : player: played "English/Too Good At Goodbyes.mp3"
+Apr 28 21:01 : player: played "English/Ava.mp3"
+Apr 28 21:05 : player: played "English/Umbrella.mp3"
+Apr 28 21:09 : player: played "English/Another Love.mp3"
+Apr 28 21:12 : player: played "English/Let Me Down Slowly.mp3"
+Apr 28 21:15 : player: played "English/Arcade.mp3"
+Apr 28 21:19 : player: played "English/Starboy.mp3"
+Apr 28 21:22 : player: played "English/lovely (with Khalid).mp3"
+Apr 28 21:24 : player: played "English/I_Aint_Worried.mp3"
+Apr 28 21:27 : player: played "English/Hurtless.mp3"
+Apr 28 21:31 : player: played "English/Heat Waves.mp3"
+Apr 28 21:34 : player: played "English/double take.mp3"
+Apr 28 21:37 : player: played "English/Me And My Broken Heart.mp3"
+Apr 28 21:42 : player: played "English/Dandelions.mp3"
+Apr 28 21:45 : player: played "English/Can_we_kiss_forever.mp3"
+Apr 28 21:50 : player: played "English/Sparkle - English Version.mp3"
+Apr 28 22:04 : player: played "English/Sparkle - English Version.mp3"
+Apr 28 22:14 : player: played "English/Sparkle - English Version.mp3"
+Apr 28 22:24 : exception: Bad song index
+Apr 28 22:24 : player: played "English/Say Goodbye.mp3"
+Apr 28 22:24 : exception: Not playing
+Apr 28 22:28 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 28 22:29 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Apr 28 22:33 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 28 22:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 22:34 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Apr 28 22:43 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 22:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 22:43 : player: played "Interstellar/Tick-Tock.webm"
+Apr 28 22:44 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 22:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 22:45 : player: played "Interstellar/First_Step.webm"
+Apr 28 22:51 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 22:51 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 22:51 : player: played "Interstellar/Imperfect_Lock.webm"
+Apr 28 22:58 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 22:58 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 22:58 : player: played "Interstellar/Detach.webm"
+Apr 28 23:01 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 23:01 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:02 : player: played "Interstellar/A_Place_Among_the_Stars.webm"
+Apr 28 23:04 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 23:04 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:04 : player: played "Interstellar/What_Happens_Now.webm"
+Apr 28 23:05 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 23:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:06 : player: played "Interstellar/The_Wormhole.webm"
+Apr 28 23:09 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 23:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:10 : player: played "Interstellar/No_Time_for_Caution.webm"
+Apr 28 23:11 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 23:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:12 : player: played "Interstellar/Running_Out.webm"
+Apr 28 23:13 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 23:13 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:13 : player: played "Interstellar/Message_from_Home.webm"
+Apr 28 23:15 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 28 23:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:15 : player: played "Interstellar/Cornfield_Chase.webm"
+Apr 28 23:39 : player: played "English/Sparkle - English Version.mp3"
+Apr 28 23:42 : player: played "English/Sparkle - English Version.mp3"
+Apr 28 23:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:45 : player: played "Interstellar/Murph.webm"
+Apr 28 23:45 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:50 : player: played "Interstellar/Murph.webm"
+Apr 28 23:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 28 23:51 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:03 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 00:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:03 : player: played "Interstellar/STAY.webm"
+Apr 29 00:06 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 00:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:06 : player: played "Interstellar/Day_One_(Interstellar_Theme).webm"
+Apr 29 00:07 : player: played "Interstellar/A_Place_Among_the_Stars.webm"
+Apr 29 00:09 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:09 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:10 : player: played "Interstellar/Who's_They？.webm"
+Apr 29 00:10 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:10 : player: played "Interstellar/Who's_They？.webm"
+Apr 29 00:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:11 : player: played "Interstellar/Who's_They？.webm"
+Apr 29 00:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:12 : player: played "Interstellar/Who's_They？.webm"
+Apr 29 00:12 : player: played "Interstellar/Who's_They？.webm"
+Apr 29 00:12 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:12 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:14 : player: played "Interstellar/Who's_They？.webm"
+Apr 29 00:14 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:14 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 00:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:14 : player: played "Interstellar/Who's_They？.webm"
+Apr 29 00:15 : player: played "Interstellar/Organ_Variation.webm"
+Apr 29 00:15 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:17 : player: played "Interstellar/Running_Out.webm"
+Apr 29 00:18 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:18 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:19 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 00:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:20 : player: played "Interstellar/Running_Out.webm"
+Apr 29 00:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:33 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:42 : player: played "Interstellar/Day_One_Dark.webm"
+Apr 29 00:42 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:42 : player: played "Interstellar/Day_One_Dark.webm"
+Apr 29 00:42 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:44 : player: played "Interstellar/Day_One_Dark.webm"
+Apr 29 00:44 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 00:47 : player: played "Interstellar/Day_One_Dark.webm"
+Apr 29 00:48 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Apr 29 00:48 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 12:05 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 12:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 12:05 : player: played "Interstellar/Day_One_Dark.webm"
+Apr 29 12:07 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 12:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 12:07 : player: played "Interstellar/Running_Out.webm"
+Apr 29 12:11 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 12:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 12:12 : player: played "Interstellar/Organ_Variation.webm"
+Apr 29 12:15 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 12:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 12:15 : player: played "Interstellar/Day_One_(Original_Demo).webm"
+Apr 29 12:18 : output: Failed to play on "pulse audio" (pulse): suspended
+Apr 29 12:20 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 29 12:20 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 29 12:20 : player: played "Interstellar/No_Need_to_Come_Back.webm"
+Apr 29 20:41 : player: played "Interstellar/Stay.webm"
+May 02 19:30 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+May 02 19:30 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 02 19:31 : ffmpeg/opus: Could not update timestamps for discarded samples.
+May 02 19:31 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 02 19:32 : player: played "Interstellar/Stay.webm"
+May 02 19:33 : ffmpeg/opus: Could not update timestamps for discarded samples.
+May 02 19:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 02 19:33 : player: played "Interstellar/Flying_Drone.webm"
+May 02 22:31 : player: played "Interstellar/No_Time_for_Caution.webm"
+May 03 10:35 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+May 03 10:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 03 20:02 : player: played "Interstellar/No_Time_for_Caution.webm"
+May 09 10:16 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+May 09 10:17 : player: played "English/Runaway.mp3"
+May 17 20:49 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+May 17 20:55 : player: played "English/Hymn for the Weekend.mp3"
+Jun 02 15:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 02 15:50 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 02 15:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 02 15:57 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Jun 02 16:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:20 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:20 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:20 : player: played "Interstellar/A_Place_Among_the_Stars.webm"
+Jun 02 16:23 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:23 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:23 : player: played "Interstellar/Mountains.webm"
+Jun 02 16:28 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:28 : player: played "Interstellar/Organ_Variation.webm"
+Jun 02 16:34 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:35 : player: played "Interstellar/STAY.webm"
+Jun 02 16:37 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:37 : player: played "Interstellar/What_Happens_Now.webm"
+Jun 02 16:43 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:43 : player: played "Interstellar/Dust.webm"
+Jun 02 16:47 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:47 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:47 : player: played "Interstellar/No_Time_for_Caution.webm"
+Jun 02 16:55 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:55 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:55 : player: played "Interstellar/Coward.webm"
+Jun 02 16:58 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 16:58 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 16:58 : player: played "Interstellar/Afraid_of_Time.webm"
+Jun 02 17:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 17:46 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 17:46 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 17:46 : player: played "Interstellar/Cornfield_Chase.webm"
+Jun 02 17:57 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 17:57 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 17:57 : player: played "Interstellar/Murph.webm"
+Jun 02 18:04 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 18:04 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 18:04 : player: played "Interstellar/Who's_They？.webm"
+Jun 02 18:08 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 02 18:08 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 02 21:24 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Jun 02 21:24 : player: played "Interstellar/Day_One_(Original_Demo).webm"
+Jun 03 08:11 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 03 08:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 03 08:11 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 03 08:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 03 20:45 : player: played "Interstellar/Day_One_(Original_Demo).webm"
+Jun 04 08:53 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 04 08:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 04 08:53 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 04 08:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 04 10:58 : player: played "Interstellar/Day_One_(Original_Demo).webm"
+Jun 04 22:59 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Jun 04 22:59 : player: played "Interstellar/No_Time_for_Caution.webm"
+Jun 05 11:39 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 05 11:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 06 00:12 : player: played "Interstellar/No_Time_for_Caution.webm"
+Jun 06 09:58 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 06 09:58 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 06 09:58 : player: played "Interstellar/No_Time_for_Caution.webm"
+Jun 16 12:43 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 16 12:46 : player: played "English/I Wanna Be Yours.mp3"
+Jun 16 13:13 : update: removing English/D u s k T i l l D a w n (slowed reverb).mp3
+Jun 16 13:13 : update: removing English/N i g h t C h a n g e s.mp3
+Jun 16 13:13 : update: removing English/See You Again (feat. Charlie Puth).mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 16 13:13 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 16 13:13 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 16 13:13 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jun 16 13:13 : update: added English/Dusk_Till_Dawn(slowed reverb).mp3
+Jun 16 13:13 : update: added English/Perfect.m4a
+Jun 16 13:13 : update: added English/Night_Changes.mp3
+Jun 16 13:13 : update: added English/See You Again(feat. Charlie Puth).mp3
+Jun 16 13:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 16 13:18 : player: played "English/Perfect.m4a"
+Jun 16 13:20 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 16 13:20 : player: played "English/Wellerman.webm"
+Jun 16 13:20 : output: Failed to play on "pulse audio" (pulse): disconnected
+Jun 16 13:20 : player: played "English/I Wanna Be Yours.mp3"
+Jun 16 17:03 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 16 20:59 : player: played "English/I Wanna Be Yours.mp3"
+Jun 17 10:55 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 17 11:17 : player: played "English/as_it_was.mp3"
+Jun 17 11:21 : player: played "English/Heat Waves.mp3"
+Jun 17 11:28 : player: played "pirai_thedum.wav"
+Jun 17 11:29 : player: played "Recording_73.wav"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 17 11:30 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 17 11:30 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 17 11:30 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jun 17 11:30 : update: added Tamil/yamunai_aatrile.aac
+Jun 17 11:31 : update: added Tamil/cutie1.aac
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 17 11:32 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 17 11:32 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 17 11:32 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jun 17 11:32 : update: removing Tamil/cutie1.aac
+Jun 17 11:33 : player: played "Tamil/cutie.aac"
+Jun 17 11:35 : player: played "English/I_Aint_Worried.mp3"
+Jun 17 11:36 : player: played "English/Arcade.mp3"
+Jun 17 11:36 : exception: Playlist already exists
+Jun 17 11:36 : exception: Bad playlist name
+Jun 17 11:36 : player: played "English/as_it_was.mp3"
+Jun 17 11:37 : exception: Bad song index
+Jun 17 11:38 : exception: Playlist already exists
+Jun 17 11:38 : player: played "pirai_thedum.wav"
+Jun 17 12:39 : player: played "English/I_Aint_Worried.mp3"
+Jun 17 15:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 17 19:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 17 19:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 17 19:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 17 23:48 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Jun 17 23:48 : player: played "rasputin.webm"
+Jun 18 11:32 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 18 11:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 18 13:03 : player: played "rasputin.webm"
+Jun 18 15:14 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 18 15:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 18 16:24 : player: played "rasputin.webm"
+Jun 18 16:24 : update: removing kaadhal_aasai.wav
+Jun 18 16:24 : update: removing rasputin.webm
+Jun 18 16:24 : update: removing pirai_thedum.wav
+Jun 18 16:24 : update: removing Oh_Penne_.webm
+Jun 18 16:24 : update: removing Nee_Paartha_Vizhigal_Video_Dhanush,_Shruti_Anirudh_.webm
+Jun 18 16:24 : update: removing vaseegara.wav
+Jun 18 16:24 : update: removing Recording_73.wav
+Jun 18 16:24 : update: removing Recording_47.wav
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 18 16:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 18 16:24 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 18 16:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jun 18 16:24 : update: added English/rasputin.webm
+Jun 18 16:24 : update: removing Tamil/Oh Penne [J6H6JQHvFMQ].m4a
+Jun 18 16:24 : update: removing Tamil/Aathi [R880kIYf6sA].m4a
+Jun 18 16:24 : update: removing Tamil/3 - Idhazhin Oram Video ｜ Dhanush, Shruti ｜ Anirudh [lZORMUufA_Y].m4a
+Jun 18 16:24 : update: added Tamil/Idhazhin Oram Video.m4a
+Jun 18 16:24 : update: added Tamil/Aathi.m4a
+Jun 18 16:24 : update: added Tamil/Oh Penne.m4a
+Jun 18 16:24 : update: added Tamil/kaadhal_aasai.wav
+Jun 18 16:24 : update: added Tamil/Nee_Paartha_Vizhigal_Video_Dhanush,_Shruti_Anirudh_.webm
+Jun 18 16:24 : update: added Tamil/Oh_Penne_.webm
+Jun 18 16:24 : update: added Tamil/pirai_thedum.wav
+Jun 18 16:24 : update: added Tamil/Recording_47.wav
+Jun 18 16:24 : update: added Tamil/Recording_73.wav
+Jun 18 16:24 : update: added Tamil/vaseegara.wav
+Jun 18 16:24 : update: added Tamil/Kannazhaga (The Kiss of Love) [fdNdxUN11Es].m4a
+Jun 18 16:49 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 18 16:49 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 18 16:50 : update: added Tamil/Thuli Thuli [MTXXdP9DH4Y].m4a
+Jun 18 16:50 : update: added Tamil/Anbe En Anbe [d6JLDfP4Yr8].m4a
+Jun 18 16:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 18 16:55 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 18 16:55 : player: played "Tamil/Anbe En Anbe [d6JLDfP4Yr8].m4a"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 18 16:58 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 18 16:58 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 18 16:58 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jun 18 16:58 : update: removing Tamil/Thuli Thuli [MTXXdP9DH4Y].m4a
+Jun 18 16:58 : update: removing Tamil/Kannazhaga (The Kiss of Love) [fdNdxUN11Es].m4a
+Jun 18 16:58 : update: removing Tamil/Anbe En Anbe [d6JLDfP4Yr8].m4a
+Jun 18 16:58 : update: added Tamil/Anbe En Anbe.m4a
+Jun 18 16:58 : update: added Tamil/Kannazhaga.m4a
+Jun 18 16:58 : update: added Tamil/Thuli Thuli.m4a
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 18 16:58 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 18 16:58 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 18 16:58 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 18 16:58 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 18 16:58 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 18 16:58 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 18 16:58 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 18 16:58 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 18 16:58 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jun 18 16:58 : player: played "Tamil/Anbe En Anbe [d6JLDfP4Yr8].m4a"
+Jun 18 17:48 : update: removing Tamil/Oh_Penne_.webm
+Jun 18 17:48 : update: removing Tamil/Nee_Paartha_Vizhigal_Video_Dhanush,_Shruti_Anirudh_.webm
+Jun 18 17:48 : update: added Tamil/Vizhi Moodi.m4a
+Jun 18 17:48 : update: added Tamil/Un Vizhigalil.m4a
+Jun 18 17:48 : update: added Tamil/Hasili Fisiliye.m4a
+Jun 18 17:48 : update: added Tamil/Oru Maalai.m4a
+Jun 18 17:48 : update: added Tamil/En Kadhal Solla.m4a
+Jun 18 17:48 : player: played "Tamil/Idhazhin Oram Video.m4a"
+Jun 18 17:57 : player: played "English/Heat Waves.mp3"
+Jun 18 18:33 : player: played "English/Perfect.m4a"
+Jun 18 18:36 : player: played "English/Arcade.mp3"
+Jun 18 18:39 : player: played "English/I Wanna Be Yours.mp3"
+Jun 19 00:13 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Jun 19 12:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jun 19 12:04 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:04 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 12:04 : player: played "Interstellar/Cornfield_Chase.webm"
+Jun 19 12:05 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 12:06 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Jun 19 12:08 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 12:09 : player: played "BGM/Quantum_Mechanics.m4a"
+Jun 19 12:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:13 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:13 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 12:13 : player: played "Interstellar/Cornfield_Chase.webm"
+Jun 19 12:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:15 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Jun 19 12:23 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:23 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:23 : player: played "Interstellar/Tick-Tock.webm"
+Jun 19 12:31 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:31 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:31 : player: played "Interstellar/Who's_They？.webm"
+Jun 19 12:33 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:33 : player: played "Interstellar/Running_Out.webm"
+Jun 19 12:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:39 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:39 : player: played "Interstellar/STAY.webm"
+Jun 19 12:46 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:46 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:46 : player: played "Interstellar/Imperfect_Lock.webm"
+Jun 19 12:48 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jun 19 12:48 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jun 19 12:48 : player: played "Interstellar/Message_from_Home.webm"
+Jun 19 12:51 : player: played "Interstellar/Where_We're_Going.webm"
+Jun 19 12:51 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 12:56 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 12:56 : player: played "Tamil/Anbe En Anbe.m4a"
+Jun 19 13:01 : player: played "Tamil/Hasili Fisiliye.m4a"
+Jun 19 13:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 13:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 13:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 13:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 19 13:04 : player: played "Tamil/Vizhi Moodi.m4a"
+Jul 02 22:11 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 02 22:13 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 02 23:24 : player: played "English/All Time Low.mp3"
+Jul 03 13:32 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 03 14:53 : player: played "English/All Time Low.mp3"
+Jul 03 15:33 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 03 15:53 : player: played "English/All Time Low.mp3"
+Jul 03 20:28 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 04 00:01 : player: played "English/All Time Low.mp3"
+Jul 04 13:45 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 04 13:49 : player: played "English/All Time Low.mp3"
+Jul 07 14:14 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 07 14:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 07 14:14 : player: played "Interstellar/Cornfield_Chase.webm"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 07 15:53 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 07 15:53 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 07 15:53 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Jul 07 15:53 : update: added BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a
+Jul 07 15:53 : update: added Tamil/cutie2.aac
+Jul 08 16:40 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 08 16:40 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 08 16:40 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 09 18:55 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 09 22:40 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 09 22:40 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 09 23:05 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 10 09:07 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 10 18:10 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 11 09:05 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 11 09:05 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 13 05:31 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 13 05:31 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 13 05:33 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 13 05:33 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 13 05:33 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 13 05:33 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 13 05:33 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Jul 13 05:36 : player: played "BGM/Quantum_Mechanics.m4a"
+Jul 13 05:38 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 05:39 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 13 05:42 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 05:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 05:42 : player: played "Interstellar/A_Place_Among_the_Stars.webm"
+Jul 13 05:44 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 05:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 05:44 : player: played "Interstellar/Cornfield_Chase.webm"
+Jul 13 05:47 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 05:47 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 05:47 : player: played "Interstellar/Day_One_(Interstellar_Theme).webm"
+Jul 13 05:54 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 05:54 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 13 05:54 : player: played "Interstellar/Day_One_Dark.webm"
+Jul 13 05:56 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 13 05:56 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Jul 13 05:59 : player: played "BGM/Quantum_Mechanics.m4a"
+Jul 13 06:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 06:02 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 13 06:05 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 06:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 06:05 : player: played "Interstellar/A_Place_Among_the_Stars.webm"
+Jul 13 06:07 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 06:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 06:08 : player: played "Interstellar/Cornfield_Chase.webm"
+Jul 13 06:11 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 06:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 06:11 : player: played "Interstellar/Day_One_(Interstellar_Theme).webm"
+Jul 13 06:18 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 06:18 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 13 06:18 : player: played "Interstellar/Day_One_Dark.webm"
+Jul 13 06:20 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 13 06:20 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Jul 13 06:23 : player: played "BGM/Quantum_Mechanics.m4a"
+Jul 13 06:25 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 06:25 : player: played "BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a"
+Jul 13 06:29 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 06:29 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 06:29 : player: played "Interstellar/A_Place_Among_the_Stars.webm"
+Jul 13 06:31 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 13 06:31 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 13 06:31 : player: played "Interstellar/Cornfield_Chase.webm"
+Jul 13 06:41 : player: played "Interstellar/Day_One_(Interstellar_Theme).webm"
+Jul 13 06:46 : player: played "English/as_it_was.mp3"
+Jul 13 07:27 : player: played "English/as_it_was.mp3"
+Jul 13 09:03 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 13 10:22 : player: played "English/as_it_was.mp3"
+Jul 13 11:25 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 13 13:58 : player: played "English/as_it_was.mp3"
+Jul 13 14:04 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 13 19:29 : player: played "English/as_it_was.mp3"
+Jul 14 08:09 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 14 13:38 : player: played "English/as_it_was.mp3"
+Jul 14 13:41 : player: played "English/as_it_was.mp3"
+Jul 14 13:44 : player: played "English/I_Aint_Worried.mp3"
+Jul 14 13:49 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 14 13:49 : player: played "English/Perfect.m4a"
+Jul 14 13:53 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 14 13:53 : player: played "English/rasputin.webm"
+Jul 14 13:57 : player: played "English/Starboy.mp3"
+Jul 14 13:59 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 14 13:59 : player: played "English/stay.mp3"
+Jul 14 14:02 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 14 14:02 : player: played "English/Wellerman.webm"
+Jul 14 14:05 : player: played "English/as_it_was.mp3"
+Jul 14 19:30 : player: played "English/I_Aint_Worried.mp3"
+Jul 15 09:20 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 15 16:04 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 15 18:39 : player: played "English/I_Aint_Worried.mp3"
+Jul 15 18:43 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 15 19:19 : player: played "English/I_Aint_Worried.mp3"
+Jul 16 08:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 16 12:36 : player: played "English/I_Aint_Worried.mp3"
+Jul 16 22:58 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 16 22:58 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 16 23:05 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 16 23:06 : player: played "English/Another Love.mp3"
+Jul 16 23:07 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 16 23:21 : player: played "English/Another Love.mp3"
+Jul 16 23:22 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 16 23:24 : player: played "English/Another Love.mp3"
+Jul 16 23:24 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 16 23:25 : player: played "English/Another Love.mp3"
+Jul 16 23:25 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 16 23:34 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 16 23:34 : player: played "English/Another Love.mp3"
+Jul 16 23:35 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 17 00:53 : player: played "English/I_Aint_Worried.mp3"
+Jul 17 01:30 : player: played "English/naruto_lofi.mp3"
+Jul 17 01:35 : player: played "English/I_Aint_Worried.mp3"
+Jul 17 08:14 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 17 20:14 : player: played "English/I_Aint_Worried.mp3"
+Jul 17 20:15 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 18 10:48 : player: played "English/I_Aint_Worried.mp3"
+Jul 18 18:30 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 19 14:39 : player: played "English/I_Aint_Worried.mp3"
+Jul 19 14:40 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 19 23:33 : player: played "English/I_Aint_Worried.mp3"
+Jul 20 06:55 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 20 07:27 : player: played "English/I_Aint_Worried.mp3"
+Jul 20 08:20 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 20 08:22 : player: played "English/I_Aint_Worried.mp3"
+Jul 20 11:32 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 21 09:07 : player: played "English/I_Aint_Worried.mp3"
+Jul 21 09:08 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 21 14:36 : player: played "English/I_Aint_Worried.mp3"
+Jul 21 14:36 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 21 14:39 : player: played "English/I_Aint_Worried.mp3"
+Jul 21 14:39 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 21 14:47 : player: played "English/I_Aint_Worried.mp3"
+Jul 21 14:48 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 21 15:48 : player: played "English/I_Aint_Worried.mp3"
+Jul 21 15:48 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 21 18:22 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 21 18:22 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 21 18:22 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Jul 21 18:22 : update: added English/Abba - Lay All Your Love On Me.m4a
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 21 18:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 21 18:26 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 21 18:26 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Jul 21 18:26 : update: added English/Eminem - Rap God.m4a
+Jul 21 20:34 : player: played "English/Eminem - Rap God.m4a"
+Jul 21 20:38 : player: played "English/Another Love.mp3"
+Jul 21 20:40 : player: played "English/I_Aint_Worried.mp3"
+Jul 21 20:41 : player: played "English/naruto_lofi.mp3"
+Jul 21 20:41 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 21 20:43 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 21 20:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 21 20:43 : player: played "English/Wellerman.webm"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 21 20:44 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 21 20:44 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 21 20:44 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Jul 21 20:46 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 21 20:46 : player: played "English/Wellerman.webm"
+Jul 21 22:24 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 21 23:17 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 21 23:26 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 22 06:29 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 22 06:38 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 22 06:39 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 22 07:13 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 22 08:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 22 13:14 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 22 15:55 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 23 07:31 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 23 18:05 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 23 22:14 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 24 08:55 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 24 09:07 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 24 09:08 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 24 11:33 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 24 11:58 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 24 11:59 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 24 13:06 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 24 15:26 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 24 16:56 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 24 18:24 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 24 21:21 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 25 09:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 25 11:56 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 25 18:39 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 26 00:33 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Jul 26 12:36 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 26 14:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 26 14:04 : player: played "English/Wellerman.webm"
+Jul 26 14:05 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 26 14:06 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Jul 26 16:00 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 26 16:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 26 16:02 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Jul 26 16:05 : player: played "English/as_it_was.mp3"
+Jul 26 16:16 : player: played "English/Eminem - Rap God.m4a"
+Jul 26 16:19 : player: played "English/I_Aint_Worried.mp3"
+Jul 26 16:23 : player: played "English/Perfect.m4a"
+Jul 26 16:27 : player: played "English/Starboy.mp3"
+Jul 26 16:30 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jul 26 16:30 : player: played "English/stay.mp3"
+Jul 26 16:32 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jul 26 16:32 : player: played "English/Wellerman.webm"
+Jul 26 18:17 : player: played "English/Hymn for the Weekend.mp3"
+Jul 26 18:18 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 26 19:02 : player: played "English/Hymn for the Weekend.mp3"
+Jul 26 19:22 : player: played "English/Hymn for the Weekend.mp3"
+Jul 26 21:52 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 26 21:55 : player: played "English/Starboy.mp3"
+Jul 27 15:39 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 27 23:05 : player: played "English/I_Aint_Worried.mp3"
+Jul 29 11:20 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 29 12:00 : player: played "English/I_Aint_Worried.mp3"
+Jul 29 12:48 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 29 16:52 : player: played "English/I_Aint_Worried.mp3"
+Jul 29 19:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 29 21:12 : player: played "English/Starboy.mp3"
+Jul 29 21:12 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Jul 29 21:42 : player: played "English/Starboy.mp3"
+Jul 30 09:58 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 30 10:02 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 30 10:02 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 30 10:02 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Jul 30 10:02 : update: added English/ByeByeBye(Deadpool and Wolverine).m4a
+Jul 30 10:02 : player: played "English/Starboy.mp3"
+Jul 30 10:11 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:16 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:21 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:27 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:32 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:36 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:40 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 10:57 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:01 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:05 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:09 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:13 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:17 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:21 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:25 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 11:29 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 12:54 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 12:58 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 13:02 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 13:36 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Jul 30 18:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 01 13:36 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 01 13:41 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 01 13:45 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 01 13:45 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 01 13:52 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 01 13:59 : player: played "English/as_it_was.mp3"
+Aug 01 14:09 : player: played "English/Eminem - Rap God.m4a"
+Aug 01 14:31 : player: played "English/I_Aint_Worried.mp3"
+Aug 01 14:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 01 14:43 : player: played "English/Perfect.m4a"
+Aug 01 14:49 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 01 14:49 : player: played "English/rasputin.webm"
+Aug 01 14:53 : player: played "English/Starboy.mp3"
+Aug 01 14:55 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 01 14:55 : player: played "English/stay.mp3"
+Aug 01 14:58 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 01 14:58 : player: played "English/Wellerman.webm"
+Aug 01 15:01 : player: played "English/I Wanna Be Yours.mp3"
+Aug 01 15:04 : player: played "English/Arcade.mp3"
+Aug 01 15:24 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Aug 01 15:28 : player: played "English/Heat Waves.mp3"
+Aug 01 15:32 : player: played "English/Infinity.mp3"
+Aug 01 15:53 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 01 15:55 : player: played "English/as_it_was.mp3"
+Aug 01 16:02 : player: played "English/Eminem - Rap God.m4a"
+Aug 01 16:05 : player: played "English/I_Aint_Worried.mp3"
+Aug 01 16:06 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 01 16:48 : player: played "English/I_Aint_Worried.mp3"
+Aug 01 16:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 01 16:53 : player: played "English/Perfect.m4a"
+Aug 01 16:57 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 01 16:58 : player: played "English/rasputin.webm"
+Aug 01 17:01 : player: played "English/Starboy.mp3"
+Aug 01 17:04 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 01 17:04 : player: played "English/stay.mp3"
+Aug 01 17:06 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 01 17:06 : player: played "English/Wellerman.webm"
+Aug 01 17:09 : player: played "English/I Wanna Be Yours.mp3"
+Aug 01 17:24 : player: played "English/Arcade.mp3"
+Aug 01 20:30 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 01 22:13 : player: played "English/Arcade.mp3"
+Aug 02 11:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 02 12:00 : player: played "English/Arcade.mp3"
+Aug 02 13:41 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 02 16:18 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 02 16:21 : player: played "English/as_it_was.mp3"
+Aug 02 16:27 : player: played "English/Eminem - Rap God.m4a"
+Aug 02 16:29 : player: played "English/I_Aint_Worried.mp3"
+Aug 02 16:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 02 16:34 : player: played "English/Perfect.m4a"
+Aug 02 16:38 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 02 16:39 : player: played "English/rasputin.webm"
+Aug 02 16:42 : player: played "English/Starboy.mp3"
+Aug 02 16:45 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 02 16:45 : player: played "English/stay.mp3"
+Aug 02 16:47 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 02 16:47 : player: played "English/Wellerman.webm"
+Aug 02 16:50 : player: played "English/I Wanna Be Yours.mp3"
+Aug 02 16:54 : player: played "English/Arcade.mp3"
+Aug 02 16:56 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Aug 02 17:22 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 02 17:38 : player: played "English/Heat Waves.mp3"
+Aug 02 17:40 : player: played "English/Infinity.mp3"
+Aug 02 17:40 : player: played "English/Infinity.mp3"
+Aug 02 17:40 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 02 17:44 : player: played "English/Infinity.mp3"
+Aug 02 17:44 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 02 18:21 : player: played "English/Infinity.mp3"
+Aug 02 20:25 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 02 23:46 : player: played "English/Infinity.mp3"
+Aug 03 16:22 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 03 16:23 : player: played "English/Infinity.mp3"
+Aug 03 16:23 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 03 16:31 : player: played "English/Infinity.mp3"
+Aug 03 19:24 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 03 20:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 04 00:02 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 04 08:09 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 04 09:58 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 04 11:03 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 04 12:05 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 04 13:41 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 04 15:06 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 04 15:07 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 04 15:23 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 04 15:26 : player: played "English/as_it_was.mp3"
+Aug 04 15:32 : player: played "English/Eminem - Rap God.m4a"
+Aug 04 15:34 : player: played "English/I_Aint_Worried.mp3"
+Aug 04 16:58 : player: played "English/Love Is Gone - Acoustic.mp3"
+Aug 04 17:09 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 04 17:09 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 04 18:29 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 04 19:59 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 04 22:23 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 05 10:40 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 05 10:58 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 07 16:38 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 07 16:42 : player: played "English/Perfect.m4a"
+Aug 07 16:45 : player: played "English/I Wanna Be Yours.mp3"
+Aug 07 16:49 : player: played "English/Hurts So Good.mp3"
+Aug 07 16:52 : player: played "English/Can_we_kiss_forever.mp3"
+Aug 07 16:57 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Aug 07 17:01 : player: played "English/Heat Waves.mp3"
+Aug 07 17:05 : player: played "English/Perfect.m4a"
+Aug 07 17:08 : player: played "English/I Wanna Be Yours.mp3"
+Aug 07 17:12 : player: played "English/Hurts So Good.mp3"
+Aug 07 17:15 : player: played "English/Can_we_kiss_forever.mp3"
+Aug 07 17:20 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Aug 07 17:24 : player: played "English/Heat Waves.mp3"
+Aug 07 17:28 : player: played "English/Perfect.m4a"
+Aug 07 17:32 : player: played "English/I Wanna Be Yours.mp3"
+Aug 07 17:35 : player: played "English/Hurts So Good.mp3"
+Aug 07 17:38 : player: played "English/Can_we_kiss_forever.mp3"
+Aug 07 17:43 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Aug 07 17:47 : player: played "English/Heat Waves.mp3"
+Aug 07 17:52 : player: played "English/Perfect.m4a"
+Aug 07 17:55 : player: played "English/I Wanna Be Yours.mp3"
+Aug 07 17:58 : player: played "English/Hurts So Good.mp3"
+Aug 07 18:01 : player: played "English/Can_we_kiss_forever.mp3"
+Aug 07 18:06 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Aug 07 18:10 : player: played "English/Heat Waves.mp3"
+Aug 07 18:15 : player: played "English/Perfect.m4a"
+Aug 07 18:16 : player: played "English/I Wanna Be Yours.mp3"
+Aug 07 18:17 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:19 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:19 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 18:22 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:22 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 18:24 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:24 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 18:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:27 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 18:29 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:29 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 18:32 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:32 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 18:34 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 18:34 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 18:36 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:11 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 07 20:11 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:11 : output: Failed to play on "pulse audio" (pulse): disconnected
+Aug 07 20:11 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 07 20:12 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:12 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:13 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:14 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:16 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:17 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:18 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:18 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:21 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:21 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:23 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:23 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:26 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:26 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:28 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:28 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:31 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:31 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:33 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:33 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:36 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:36 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:38 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:38 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:41 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:41 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:42 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:43 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:45 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:46 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:47 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:47 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:50 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:52 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:52 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 20:55 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:55 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 20:57 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 20:57 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 21:00 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 21:00 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 21:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 21:02 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 21:05 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 21:05 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 21:07 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 21:07 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 07 21:10 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 07 21:10 : player: played "BGM/Quantum_Mechanics.m4a"
+Aug 07 23:06 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 08:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 08:47 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 09:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 09:04 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 09:25 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 09:27 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 09:28 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 09:29 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 09:29 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 09:30 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 09:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 09:34 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 09:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 09:35 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 09:35 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 10:14 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 10:35 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 11:20 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 13:08 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 08 14:58 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 08 14:58 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 08 14:58 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 08 15:00 : player: played "English/as_it_was.mp3"
+Aug 08 15:01 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 08 15:03 : player: played "English/as_it_was.mp3"
+Aug 09 12:45 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 09 15:32 : player: played "English/as_it_was.mp3"
+Aug 09 15:33 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 09 15:56 : player: played "English/as_it_was.mp3"
+Aug 09 16:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 09 18:00 : player: played "English/as_it_was.mp3"
+Aug 09 22:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 09 23:12 : player: played "English/as_it_was.mp3"
+Aug 09 23:12 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 09 23:41 : player: played "English/as_it_was.mp3"
+Aug 10 09:58 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 10 10:00 : player: played "English/as_it_was.mp3"
+Aug 10 10:01 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 10 10:15 : player: played "English/as_it_was.mp3"
+Aug 10 10:37 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 10 11:22 : player: played "English/as_it_was.mp3"
+Aug 10 20:19 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 10 23:33 : player: played "English/as_it_was.mp3"
+Aug 11 08:05 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 11 09:36 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 11 11:44 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 11 13:53 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 11 13:54 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 11 14:10 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 11 14:11 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 11 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 11 17:07 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 11 17:35 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 11 19:57 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 11 20:49 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 12 10:18 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 12 12:01 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 12 13:19 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 12 14:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 12 15:16 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 12 16:05 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 12 16:59 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 12 22:37 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 12 22:41 : player: played "English/as_it_was.mp3"
+Aug 12 22:45 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Aug 12 22:45 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 12 22:48 : player: played "English/as_it_was.mp3"
+Aug 12 22:54 : player: played "English/Eminem - Rap God.m4a"
+Aug 12 22:57 : player: played "English/I_Aint_Worried.mp3"
+Aug 12 23:01 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 12 23:02 : player: played "English/Perfect.m4a"
+Aug 12 23:04 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 12 23:04 : player: played "English/Wellerman.webm"
+Aug 12 23:08 : player: played "English/Sweater Weather.mp3"
+Aug 12 23:12 : player: played "English/In The Stars.mp3"
+Aug 12 23:15 : player: played "English/Under The Influence.mp3"
+Aug 12 23:18 : player: played "English/as_it_was.mp3"
+Aug 13 07:11 : player: played "English/Eminem - Rap God.m4a"
+Aug 13 20:10 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 13 20:11 : player: played "English/Eminem - Rap God.m4a"
+Aug 13 20:11 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 13 23:03 : player: played "English/Eminem - Rap God.m4a"
+Aug 14 09:55 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 14 11:27 : player: played "English/Eminem - Rap God.m4a"
+Aug 14 15:09 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 14 15:09 : player: played "English/Eminem - Rap God.m4a"
+Aug 14 15:09 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 14 15:30 : player: played "English/Eminem - Rap God.m4a"
+Aug 14 15:31 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 14 15:31 : player: played "English/Eminem - Rap God.m4a"
+Aug 14 15:31 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 14 17:15 : player: played "English/Eminem - Rap God.m4a"
+Aug 14 20:17 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 14 21:58 : player: played "English/Eminem - Rap God.m4a"
+Aug 15 15:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 15 22:22 : player: played "English/Eminem - Rap God.m4a"
+Aug 16 12:58 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 16 13:02 : player: played "English/Eminem - Rap God.m4a"
+Aug 16 13:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 16 13:03 : player: played "English/Eminem - Rap God.m4a"
+Aug 16 13:04 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 16 22:10 : player: played "English/Eminem - Rap God.m4a"
+Aug 16 22:12 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 17 11:05 : player: played "English/Eminem - Rap God.m4a"
+Aug 18 20:13 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 18 20:14 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 18 20:19 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Aug 18 20:21 : player: played "English/as_it_was.mp3"
+Aug 18 20:27 : player: played "English/Eminem - Rap God.m4a"
+Aug 18 20:30 : player: played "English/I_Aint_Worried.mp3"
+Aug 18 20:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 18 20:35 : player: played "English/Perfect.m4a"
+Aug 18 20:39 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 18 20:39 : player: played "English/rasputin.webm"
+Aug 18 20:58 : player: played "English/Starboy.mp3"
+Aug 18 21:08 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 18 21:16 : player: played "English/Starboy.mp3"
+Aug 18 21:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 18 21:19 : player: played "English/stay.mp3"
+Aug 18 21:21 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 18 21:21 : player: played "English/Wellerman.webm"
+Aug 18 21:26 : player: played "English/Hymn for the Weekend.mp3"
+Aug 18 21:30 : player: played "English/Runaway.mp3"
+Aug 18 21:40 : player: played "English/All Time Low.mp3"
+Aug 18 21:43 : player: played "English/I Wanna Be Yours.mp3"
+Aug 18 21:46 : player: played "English/Arcade.mp3"
+Aug 18 21:49 : player: played "English/Hurts So Good.mp3"
+Aug 18 21:53 : player: played "English/Be Alright.mp3"
+Aug 18 21:56 : player: played "English/Can_we_kiss_forever.mp3"
+Aug 18 22:01 : player: played "English/Dusk_Till_Dawn(slowed reverb).mp3"
+Aug 18 22:04 : player: played "English/double take.mp3"
+Aug 18 22:07 : player: played "English/Heat Waves.mp3"
+Aug 18 22:11 : player: played "English/Infinity.mp3"
+Aug 18 22:14 : player: played "English/Halo.mp3"
+Aug 18 22:17 : player: played "English/Hurtless.mp3"
+Aug 18 22:21 : player: played "English/Sweater Weather.mp3"
+Aug 18 22:25 : player: played "English/Dusk Till Dawn (feat. Sia) - Radio Edit.mp3"
+Aug 18 22:29 : player: played "English/In The End - Mellen Gi Remix.mp3"
+Aug 18 22:33 : player: played "English/In The Stars.mp3"
+Aug 18 22:36 : player: played "English/Under The Influence.mp3"
+Aug 18 22:39 : player: played "English/Into Your Arms (feat. Ava Max).mp3"
+Aug 18 23:00 : player: played "English/Me And My Broken Heart.mp3"
+Aug 18 23:04 : player: played "English/Another Love.mp3"
+Aug 18 23:07 : player: played "English/Love Is Gone - Acoustic.mp3"
+Aug 18 23:13 : player: played "English/i wanna be yours x summer time sadness (speed).mp3"
+Aug 19 07:21 : player: played "English/lovely (with Khalid).mp3"
+Aug 19 09:55 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 19 09:55 : player: played "English/lovely (with Khalid).mp3"
+Aug 20 16:28 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 20 16:28 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 20 16:28 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Aug 21 10:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Aug 21 10:27 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Aug 21 10:27 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Sep 05 08:38 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Sep 05 08:38 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 05 08:40 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Sep 05 08:40 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Sep 05 08:42 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Sep 05 08:42 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Sep 05 08:44 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Sep 05 08:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Sep 05 08:46 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Sep 05 08:46 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Sep 05 08:47 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Sep 05 08:48 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Sep 05 08:49 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Sep 22 13:21 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 22 15:21 : player: played "English/Hymn for the Weekend.mp3"
+Sep 22 15:22 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 22 22:45 : player: played "English/Hymn for the Weekend.mp3"
+Sep 22 22:49 : player: played "English/Runaway.mp3"
+Sep 22 23:58 : player: played "English/All Time Low.mp3"
+Sep 25 19:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 25 19:02 : player: played "English/All Time Low.mp3"
+Sep 26 22:37 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 26 22:53 : player: played "English/as_it_was.mp3"
+Sep 26 22:57 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Sep 26 23:03 : player: played "English/Eminem - Rap God.m4a"
+Sep 26 23:17 : player: played "English/Perfect.m4a"
+Sep 27 21:05 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 27 23:16 : player: played "English/Perfect.m4a"
+Sep 28 20:04 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 28 22:29 : player: played "English/Perfect.m4a"
+Sep 29 08:09 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 29 15:41 : player: played "English/Perfect.m4a"
+Sep 29 19:12 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 29 23:37 : player: played "English/Perfect.m4a"
+Sep 30 16:18 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Sep 30 21:30 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 01 01:32 : player: played "English/Perfect.m4a"
+Oct 01 09:59 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 01 22:57 : player: played "English/Perfect.m4a"
+Oct 02 10:50 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 03 19:23 : player: played "English/Perfect.m4a"
+Oct 03 21:20 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 07 00:15 : player: played "English/Perfect.m4a"
+Oct 07 08:26 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 07 10:16 : player: played "English/Perfect.m4a"
+Oct 07 13:37 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 07 14:27 : player: played "English/Perfect.m4a"
+Oct 07 22:21 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 11 12:37 : player: played "English/Perfect.m4a"
+Oct 12 11:27 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 12 18:37 : player: played "English/Perfect.m4a"
+Oct 12 18:37 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 12 18:38 : player: played "English/Perfect.m4a"
+Oct 12 18:39 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 12 18:48 : player: played "English/Perfect.m4a"
+Oct 12 20:13 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 13 00:07 : player: played "English/Perfect.m4a"
+Oct 13 08:01 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 13 17:28 : player: played "English/Perfect.m4a"
+Oct 13 17:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Oct 13 17:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Oct 13 17:31 : player: played "English/Wellerman.webm"
+Oct 13 17:35 : player: played "English/Sweater Weather.mp3"
+Oct 13 17:38 : player: played "English/Under The Influence.mp3"
+Oct 13 17:40 : player: played "English/as_it_was.mp3"
+Oct 13 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Oct 14 00:03 : player: played "English/Perfect.m4a"
+Oct 14 14:31 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 14 22:53 : player: played "English/Perfect.m4a"
+Oct 14 22:54 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 14 23:35 : player: played "English/Perfect.m4a"
+Oct 15 11:28 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 15 13:32 : player: played "English/Perfect.m4a"
+Oct 15 15:41 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 15 23:24 : player: played "English/Perfect.m4a"
+Oct 16 11:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 16 20:45 : player: played "English/Perfect.m4a"
+Oct 17 15:57 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 17 16:45 : player: played "English/Perfect.m4a"
+Oct 17 21:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 21 00:05 : player: played "English/Perfect.m4a"
+Oct 21 20:38 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 22 08:50 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 22 13:05 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 22 15:33 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 22 18:52 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 22 19:15 : player: played "English/Perfect.m4a"
+Oct 22 20:22 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 23 00:51 : player: played "English/Perfect.m4a"
+Oct 23 15:44 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 25 21:16 : player: played "English/Perfect.m4a"
+Oct 25 21:28 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 26 00:21 : player: played "English/Perfect.m4a"
+Oct 27 07:58 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 27 19:59 : player: played "English/Perfect.m4a"
+Oct 27 19:59 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 28 00:26 : player: played "English/Perfect.m4a"
+Oct 28 16:44 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 28 22:08 : player: played "English/Perfect.m4a"
+Oct 28 22:09 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 28 22:31 : player: played "English/Perfect.m4a"
+Oct 28 22:31 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 28 22:38 : player: played "English/Perfect.m4a"
+Oct 28 22:39 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 29 15:48 : player: played "English/Perfect.m4a"
+Oct 29 18:01 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 29 18:11 : player: played "English/Perfect.m4a"
+Oct 30 10:33 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 30 10:33 : player: played "English/Perfect.m4a"
+Oct 30 10:35 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 30 18:02 : player: played "English/Perfect.m4a"
+Oct 30 18:03 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 31 00:14 : player: played "English/Perfect.m4a"
+Oct 31 12:07 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 31 12:10 : player: played "English/Perfect.m4a"
+Oct 31 12:10 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Oct 31 13:09 : player: played "English/Perfect.m4a"
+Oct 31 13:10 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 01 00:36 : player: played "English/Perfect.m4a"
+Nov 01 10:38 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use

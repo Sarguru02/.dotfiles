@@ -22,7 +22,7 @@ my $percent;
 my $ac_adapt;
 my $full_text;
 my $short_text;
-my $bat_number = $ENV{BAT_NUMBER} || 0;
+my $bat_number = 0;
 my $label = $ENV{LABEL} || "";
 
 # read the first line of the "acpi" command output

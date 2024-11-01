@@ -9,12 +9,13 @@ return {
 	config = function()
 		local trouble = require("trouble")
 
+		local opts = { new = true, refresh = true, mode = "diagnostics", focus = true }
 		trouble.setup({
 			position = "right",
 		})
 
 		vim.keymap.set("n", "<leader>tt", function()
-			trouble.toggle()
+			trouble.toggle(opts)
 		end)
 
 		vim.keymap.set("n", "[t", function()
@@ -25,4 +26,11 @@ return {
 			trouble.previous({ skip_groups = true, jump = true })
 		end)
 	end,
+	keys = {
+		{
+			"<leader>xQ",
+			"<cmd>Trouble qflist toggle<cr>",
+			desc = "Quickfix List (Trouble)",
+		},
+	},
 }

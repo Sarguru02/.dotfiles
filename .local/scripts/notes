@@ -1,0 +1,15 @@
+#!/bin/sh
+
+today=$(date +"%d-%m")
+
+if [ ! -f ~/Documents/notes/note_$today ]; then
+    touch ~/Documents/notes/note_$today.txt
+fi
+
+yesterday=$(date -d "yesterday" +"%d-%m")
+echo $yesterday
+note=$(cat ~/Documents/notes/note_$yesterday.txt)
+if [ -z "$note" ]; then
+    note="No note for Today"
+fi
+notify-send "Note" "$note"

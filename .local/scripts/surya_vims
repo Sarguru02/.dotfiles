@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+if [ ! "$TMUX" ]; then
+  selected_name=$(basename "$PWD" | tr . _)
+  if tmux has-session -t "$selected_name" 2>/dev/null; then
+      tmux new-window -t "$selected_name" nvim $1
+      tmux attach-session -t "$selected_name"
+  else
+      tmux new-session -s $selected_name nvim $1
+  fi
+else
+  nvim
+fi

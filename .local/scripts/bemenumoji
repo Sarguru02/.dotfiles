@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+emoji=$(cat "$HOME/.config/menu/emoji.txt" | bemenu-styled -i -l 30 "$@" | sed 's/ .*//')
+
+if [ -z "$emoji" ]; then
+    exit
+fi
+
+printf "$emoji" | pbcopy
+echo "Copied $emoji to clipboard!"

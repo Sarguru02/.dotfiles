@@ -1,0 +1,7 @@
+#!/bin/sh -e
+
+if nc -zw1 google.com 443; then
+	discord &
+else
+	  exit 0
+fi

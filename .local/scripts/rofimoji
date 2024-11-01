@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+emoji=$(cat "$HOME/.config/menu/emoji.txt" | rofi -dmenu -p | sed 's/ .*//')
+
+if [ -z "$emoji" ]; then
+    exit
+fi
+
+printf "$emoji" | xclip -sel clipboard
+echo "Copied $emoji to clipboard!"

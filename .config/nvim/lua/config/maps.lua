@@ -21,6 +21,7 @@ vim.keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper win
 
 vim.keymap.set("n", "<leader>cp", function ()
 	vim.cmd("read ~/.config/nvim/skeletons/cppsk.cpp")
+	vim.cmd("50")
 end)
 
 vim.keymap.set("n", "<leader>cc", function()
@@ -37,4 +38,5 @@ end)
 vim.keymap.set("n", "<leader>sp", function()
 	vim.cmd("vsplit input.txt")
 	vim.cmd("split output.txt")
+	vim.cmd("split debug.txt")
 end)
