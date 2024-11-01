@@ -1,0 +1,19 @@
+#! /bin/sh
+
+# This is for nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+#go path variable
+export PATH=/home/sarguru/go/bin:/home/sarguru/.local/bin:$PATH
+
+#rust cargo environment
+. "$HOME/.cargo/env"
+
+# bun completions
+[ -s "/home/sarguru/.bun/_bun" ] && source "/home/sarguru/.bun/_bun"
+
+# bun path variables
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

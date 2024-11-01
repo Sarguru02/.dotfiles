@@ -1,0 +1,34 @@
+#! /bin/sh
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+# systemctl commands
+alias start="sudo systemctl start"
+alias stop="sudo systemctl stop"
+alias stats="sudo systemctl status"
+alias slp="systemctl suspend"
+
+# power commands
+alias sn="shutdown now"
+alias rst="shutdown now -r"
+
+# trash commands
+alias rm="trash-put"
+alias lst="trash-list"
+
+#needed utility
+alias v="nvim"
+alias vo="vopener"
+
+# music downloader
+alias msdw="yt-dlp -f 140"
+alias clear="clear && neofetch"
+
+alias vc="NVIM_APPNAME=nvim-nvchad vi"
+alias vn="NVIM_APPNAME=nvim-old vi"
+
+#dotfiles alias
+alias dot="/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+
