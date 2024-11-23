@@ -2393,3 +2393,1236 @@ Oct 31 13:09 : player: played "English/Perfect.m4a"
 Oct 31 13:10 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
 Nov 01 00:36 : player: played "English/Perfect.m4a"
 Nov 01 10:38 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 01 17:03 : exception: Failed to open /home/sarguru/Music/.playlists: No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/as_it_was.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:03 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:03 : player: played "English/Perfect.m4a"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Starboy.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/stay.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:03 : player: played "English/Wellerman.webm"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:03 : player: played "English/Under The Influence.mp3"
+Nov 01 17:03 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:03 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/as_it_was.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:39 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:39 : player: played "English/Perfect.m4a"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Starboy.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/stay.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:39 : player: played "English/Wellerman.webm"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:39 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:39 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Quantum_Mechanics.m4a; Failed to open '/home/sarguru/Music/BGM/Quantum_Mechanics.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Quantum_Mechanics.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Quantum_Mechanics.m4a; Failed to open '/home/sarguru/Music/BGM/Quantum_Mechanics.m4a': No such file or directory
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Quantum_Mechanics.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a; Failed to open '/home/sarguru/Music/English/Abba - Lay All Your Love On Me.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Abba - Lay All Your Love On Me.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/as_it_was.mp3; Failed to open '/home/sarguru/Music/English/as_it_was.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/as_it_was.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a; Failed to open '/home/sarguru/Music/English/ByeByeBye(Deadpool and Wolverine).m4a': No such file or directory
+Nov 01 17:44 : player: played "English/ByeByeBye(Deadpool and Wolverine).m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Eminem - Rap God.m4a; Failed to open '/home/sarguru/Music/English/Eminem - Rap God.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Eminem - Rap God.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Perfect.m4a; Failed to open '/home/sarguru/Music/English/Perfect.m4a': No such file or directory
+Nov 01 17:44 : player: played "English/Perfect.m4a"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Starboy.mp3; Failed to open '/home/sarguru/Music/English/Starboy.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Starboy.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/stay.mp3; Failed to open '/home/sarguru/Music/English/stay.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/stay.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Wellerman.webm; Failed to open '/home/sarguru/Music/English/Wellerman.webm': No such file or directory
+Nov 01 17:44 : player: played "English/Wellerman.webm"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Sweater Weather.mp3; Failed to open '/home/sarguru/Music/English/Sweater Weather.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Sweater Weather.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/English/Under The Influence.mp3; Failed to open '/home/sarguru/Music/English/Under The Influence.mp3': No such file or directory
+Nov 01 17:44 : player: played "English/Under The Influence.mp3"
+Nov 01 17:44 : exception: Failed to decode /home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a; Failed to open '/home/sarguru/Music/BGM/Can_You_Hear_The_Music.m4a': No such file or directory
+Nov 01 17:44 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 01 17:44 : update: removing BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a
+Nov 01 17:44 : update: removing BGM/Quantum_Mechanics.m4a
+Nov 01 17:44 : update: removing BGM/Can_You_Hear_The_Music.m4a
+Nov 01 17:44 : exception: No such directory
+Nov 01 17:44 : update: removing English/Abba - Lay All Your Love On Me.m4a
+Nov 01 17:44 : update: removing English/Sparkle - English Version.mp3
+Nov 01 17:44 : update: removing English/Umbrella.mp3
+Nov 01 17:44 : update: removing English/Too Good At Goodbyes.mp3
+Nov 01 17:44 : update: removing English/Stan.mp3
+Nov 01 17:44 : update: removing English/Atlantis.mp3
+Nov 01 17:44 : update: removing English/Ava.mp3
+Nov 01 17:44 : update: removing English/Where's My Love.mp3
+Nov 01 17:44 : update: removing English/Something to Someone.mp3
+Nov 01 17:44 : update: removing English/See You Again(feat. Charlie Puth).mp3
+Nov 01 17:44 : update: removing English/Say Goodbye.mp3
+Nov 01 17:44 : update: removing English/Dandelions.mp3
+Nov 01 17:44 : update: removing English/Let Me Down Slowly.mp3
+Nov 01 17:44 : update: removing English/Night_Changes.mp3
+Nov 01 17:44 : update: removing English/Moral of the Story.mp3
+Nov 01 17:44 : update: removing English/lovely (with Khalid).mp3
+Nov 01 17:44 : update: removing English/i wanna be yours x summer time sadness (speed).mp3
+Nov 01 17:44 : update: removing English/Love Is Gone - Acoustic.mp3
+Nov 01 17:44 : update: removing English/Another Love.mp3
+Nov 01 17:44 : update: removing English/Me And My Broken Heart.mp3
+Nov 01 17:44 : update: removing English/Into Your Arms (feat. Ava Max).mp3
+Nov 01 17:44 : update: removing English/Under The Influence.mp3
+Nov 01 17:44 : update: removing English/In The Stars.mp3
+Nov 01 17:44 : update: removing English/In The End - Mellen Gi Remix.mp3
+Nov 01 17:44 : update: removing English/Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Nov 01 17:44 : update: removing English/Sweater Weather.mp3
+Nov 01 17:44 : update: removing English/Hurtless.mp3
+Nov 01 17:44 : update: removing English/Halo.mp3
+Nov 01 17:44 : update: removing English/Infinity.mp3
+Nov 01 17:44 : update: removing English/Heat Waves.mp3
+Nov 01 17:44 : update: removing English/double take.mp3
+Nov 01 17:44 : update: removing English/Dusk_Till_Dawn(slowed reverb).mp3
+Nov 01 17:44 : update: removing English/Can_we_kiss_forever.mp3
+Nov 01 17:44 : update: removing English/Be Alright.mp3
+Nov 01 17:44 : update: removing English/Hurts So Good.mp3
+Nov 01 17:44 : update: removing English/Arcade.mp3
+Nov 01 17:44 : update: removing English/I Wanna Be Yours.mp3
+Nov 01 17:44 : update: removing English/All Time Low.mp3
+Nov 01 17:44 : update: removing English/Runaway.mp3
+Nov 01 17:44 : update: removing English/Hymn for the Weekend.mp3
+Nov 01 17:44 : update: removing English/Wellerman.webm
+Nov 01 17:44 : update: removing English/stay.mp3
+Nov 01 17:44 : update: removing English/Starboy.mp3
+Nov 01 17:44 : update: removing English/rasputin.webm
+Nov 01 17:44 : update: removing English/Perfect.m4a
+Nov 01 17:44 : update: removing English/naruto_lofi.mp3
+Nov 01 17:44 : update: removing English/I_Aint_Worried.mp3
+Nov 01 17:44 : update: removing English/Eminem - Rap God.m4a
+Nov 01 17:44 : update: removing English/ByeByeBye(Deadpool and Wolverine).m4a
+Nov 01 17:44 : update: removing English/as_it_was.mp3
+Nov 01 17:44 : update: removing Tamil/yamunai_aatrile.aac
+Nov 01 17:44 : update: removing Tamil/Vizhi Moodi.m4a
+Nov 01 17:44 : update: removing Tamil/vaseegara.wav
+Nov 01 17:44 : update: removing Tamil/Un Vizhigalil.m4a
+Nov 01 17:44 : update: removing Tamil/Thuli Thuli.m4a
+Nov 01 17:44 : update: removing Tamil/Recording_73.wav
+Nov 01 17:44 : update: removing Tamil/Recording_47.wav
+Nov 01 17:44 : update: removing Tamil/pirai_thedum.wav
+Nov 01 17:44 : update: removing Tamil/Oru Maalai.m4a
+Nov 01 17:44 : update: removing Tamil/Oh Penne.m4a
+Nov 01 17:44 : update: removing Tamil/Kannazhaga.m4a
+Nov 01 17:44 : update: removing Tamil/kaadhal_aasai.wav
+Nov 01 17:44 : update: removing Tamil/Idhazhin Oram Video.m4a
+Nov 01 17:44 : update: removing Tamil/Hasili Fisiliye.m4a
+Nov 01 17:44 : update: removing Tamil/En Kadhal Solla.m4a
+Nov 01 17:44 : update: removing Tamil/cutie2.aac
+Nov 01 17:44 : update: removing Tamil/cutie.aac
+Nov 01 17:44 : update: removing Tamil/Anbe En Anbe.m4a
+Nov 01 17:44 : update: removing Tamil/Aathi.m4a
+Nov 01 17:44 : update: removing Interstellar/Who's_They？.webm
+Nov 01 17:44 : update: removing Interstellar/Where_We're_Going.webm
+Nov 01 17:44 : update: removing Interstellar/What_Happens_Now.webm
+Nov 01 17:44 : update: removing Interstellar/Tick-Tock.webm
+Nov 01 17:44 : update: removing Interstellar/The_Wormhole.webm
+Nov 01 17:44 : update: removing Interstellar/STAY.webm
+Nov 01 17:44 : update: removing Interstellar/Stay.webm
+Nov 01 17:44 : update: removing Interstellar/Running_Out.webm
+Nov 01 17:44 : update: removing Interstellar/Organ_Variation.webm
+Nov 01 17:44 : update: removing Interstellar/No_Time_for_Caution.webm
+Nov 01 17:44 : update: removing Interstellar/No_Need_to_Come_Back.webm
+Nov 01 17:44 : update: removing Interstellar/Murph.webm
+Nov 01 17:44 : update: removing Interstellar/Mountains.webm
+Nov 01 17:44 : update: removing Interstellar/Message_from_Home.webm
+Nov 01 17:44 : update: removing Interstellar/Imperfect_Lock.webm
+Nov 01 17:44 : update: removing Interstellar/I'm_Going_Home.webm
+Nov 01 17:44 : update: removing Interstellar/Flying_Drone.webm
+Nov 01 17:44 : update: removing Interstellar/First_Step.webm
+Nov 01 17:44 : update: removing Interstellar/Dust.webm
+Nov 01 17:44 : update: removing Interstellar/Dreaming_of_the_Crash.webm
+Nov 01 17:44 : update: removing Interstellar/Do_Not_Go_Gentle_Into_That_Good_Night.webm
+Nov 01 17:44 : update: removing Interstellar/Detach.webm
+Nov 01 17:44 : update: removing Interstellar/Day_One_Dark.webm
+Nov 01 17:44 : update: removing Interstellar/Day_One_(Original_Demo).webm
+Nov 01 17:44 : update: removing Interstellar/Day_One_(Interstellar_Theme).webm
+Nov 01 17:44 : update: removing Interstellar/Coward.webm
+Nov 01 17:44 : update: removing Interstellar/Cornfield_Chase.webm
+Nov 01 17:44 : update: removing Interstellar/Atmospheric_Entry.webm
+Nov 01 17:44 : update: removing Interstellar/Afraid_of_Time.webm
+Nov 01 17:44 : update: removing Interstellar/A_Place_Among_the_Stars.webm
+Nov 01 18:45 : update: added BGM/Can_You_Hear_The_Music.m4a
+Nov 01 18:45 : update: added BGM/ThelostsouldownXLostsoulISlowedtoperfectionIFullmusic.m4a
+Nov 01 18:45 : update: added BGM/Quantum_Mechanics.m4a
+Nov 01 18:45 : update: added English/Perfect.m4a
+Nov 01 18:45 : update: added English/I Wanna Be Yours.mp3
+Nov 01 18:45 : update: added English/Hymn for the Weekend.mp3
+Nov 01 18:45 : update: added English/Me And My Broken Heart.mp3
+Nov 01 18:45 : update: added English/double take.mp3
+Nov 01 18:45 : update: added English/Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+Nov 01 18:45 : update: added English/Say Goodbye.mp3
+Nov 01 18:45 : update: added English/Hurts So Good.mp3
+Nov 01 18:45 : update: added English/rasputin.webm
+Nov 01 18:45 : update: added English/Umbrella.mp3
+Nov 01 18:45 : update: added English/Too Good At Goodbyes.mp3
+Nov 01 18:45 : update: added English/Can_we_kiss_forever.mp3
+Nov 01 18:45 : update: added English/Something to Someone.mp3
+Nov 01 18:45 : update: added English/Hurtless.mp3
+Nov 01 18:45 : update: added English/Night_Changes.mp3
+Nov 01 18:45 : update: added English/In The Stars.mp3
+Nov 01 18:45 : update: added English/Love Is Gone - Acoustic.mp3
+Nov 01 18:45 : update: added English/Into Your Arms (feat. Ava Max).mp3
+Nov 01 18:45 : update: added English/Halo.mp3
+Nov 01 18:45 : update: added English/Infinity.mp3
+Nov 01 18:45 : update: added English/lovely (with Khalid).mp3
+Nov 01 18:45 : update: added English/Dusk_Till_Dawn(slowed reverb).mp3
+Nov 01 18:45 : update: added English/Where_s My Love.mp3
+Nov 01 18:45 : update: added English/Runaway.mp3
+Nov 01 18:45 : update: added English/In The End - Mellen Gi Remix.mp3
+Nov 01 18:45 : update: added English/Under The Influence.mp3
+Nov 01 18:45 : update: added English/Let Me Down Slowly.mp3
+Nov 01 18:45 : update: added English/Sparkle - English Version.mp3
+Nov 01 18:45 : update: added English/Heat Waves.mp3
+Nov 01 18:45 : update: added English/All Time Low.mp3
+Nov 01 18:45 : update: added English/Dandelions.mp3
+Nov 01 18:45 : update: added English/Stan.mp3
+Nov 01 18:45 : update: added English/Ava.mp3
+Nov 01 18:45 : update: added English/Sweater Weather.mp3
+Nov 01 18:45 : update: added English/Another Love.mp3
+Nov 01 18:45 : update: added English/Arcade.mp3
+Nov 01 18:45 : update: added English/Be Alright.mp3
+Nov 01 18:45 : update: added English/Atlantis.mp3
+Nov 01 18:45 : update: added English/Moral of the Story.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Nov 01 18:45 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Nov 01 18:45 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Nov 01 18:45 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Nov 01 18:45 : update: added English/i wanna be yours x summer time sadness (speed).mp3
+Nov 01 18:45 : update: added English/I_Aint_Worried.mp3
+Nov 01 18:45 : update: added English/See You Again(feat. Charlie Puth).mp3
+Nov 01 18:45 : update: added English/as_it_was.mp3
+Nov 01 18:45 : update: added English/Starboy.mp3
+Nov 01 18:45 : update: added English/stay.mp3
+Nov 01 18:45 : update: added English/Wellerman.webm
+Nov 01 18:45 : update: added English/ByeByeBye(Deadpool and Wolverine).m4a
+Nov 01 18:45 : update: added English/Eminem - Rap God.m4a
+Nov 01 18:45 : update: added English/naruto_lofi.mp3
+Nov 01 18:45 : update: added English/Abba - Lay All Your Love On Me.m4a
+Nov 01 18:45 : update: added Interstellar/First_Step.webm
+Nov 01 18:45 : update: added Interstellar/Tick-Tock.webm
+Nov 01 18:45 : update: added Interstellar/STAY.webm
+Nov 01 18:45 : update: added Interstellar/No_Time_for_Caution.webm
+Nov 01 18:45 : update: added Interstellar/Day_One_Dark.webm
+Nov 01 18:45 : update: added Interstellar/Dreaming_of_the_Crash.webm
+Nov 01 18:45 : update: added Interstellar/Imperfect_Lock.webm
+Nov 01 18:45 : update: added Interstellar/I_m_Going_Home.webm
+Nov 01 18:45 : update: added Interstellar/A_Place_Among_the_Stars.webm
+Nov 01 18:45 : update: added Interstellar/Organ_Variation.webm
+Nov 01 18:45 : update: added Interstellar/No_Need_to_Come_Back.webm
+Nov 01 18:45 : update: added Interstellar/Mountains.webm
+Nov 01 18:45 : update: added Interstellar/Stay(1).webm
+Nov 01 18:45 : update: added Interstellar/The_Wormhole.webm
+Nov 01 18:45 : update: added Interstellar/Detach.webm
+Nov 01 18:45 : update: added Interstellar/Who_s_They？.webm
+Nov 01 18:45 : update: added Interstellar/Murph.webm
+Nov 01 18:45 : update: added Interstellar/What_Happens_Now.webm
+Nov 01 18:45 : update: added Interstellar/Day_One_(Interstellar_Theme).webm
+Nov 01 18:45 : update: added Interstellar/Where_We_re_Going.webm
+Nov 01 18:45 : update: added Interstellar/Atmospheric_Entry.webm
+Nov 01 18:45 : update: added Interstellar/Coward.webm
+Nov 01 18:45 : update: added Interstellar/Running_Out.webm
+Nov 01 18:45 : update: added Interstellar/Dust.webm
+Nov 01 18:45 : update: added Interstellar/Flying_Drone.webm
+Nov 01 18:45 : update: added Interstellar/Day_One_(Original_Demo).webm
+Nov 01 18:45 : update: added Interstellar/Message_from_Home.webm
+Nov 01 18:45 : update: added Interstellar/Cornfield_Chase.webm
+Nov 01 18:45 : update: added Interstellar/Afraid_of_Time.webm
+Nov 01 18:45 : update: added Interstellar/Do_Not_Go_Gentle_Into_That_Good_Night.webm
+Nov 01 18:45 : update: added Tamil/yamunai_aatrile.aac
+Nov 01 18:45 : update: added Tamil/cutie2.aac
+Nov 01 18:45 : update: added Tamil/cutie.aac
+Nov 01 18:45 : update: added Tamil/Un Vizhigalil.m4a
+Nov 01 18:45 : update: added Tamil/Idhazhin Oram Video.m4a
+Nov 01 18:45 : update: added Tamil/Recording_73.wav
+Nov 01 18:45 : update: added Tamil/pirai_thedum.wav
+Nov 01 18:45 : update: added Tamil/Recording_47.wav
+Nov 01 18:45 : update: added Tamil/kaadhal_aasai.wav
+Nov 01 18:45 : update: added Tamil/Vizhi Moodi.m4a
+Nov 01 18:45 : update: added Tamil/vaseegara.wav
+Nov 01 18:45 : update: added Tamil/Aathi.m4a
+Nov 01 18:45 : update: added Tamil/Anbe En Anbe.m4a
+Nov 01 18:45 : update: added Tamil/Kannazhaga.m4a
+Nov 01 18:45 : update: added Tamil/Thuli Thuli.m4a
+Nov 01 18:45 : update: added Tamil/En Kadhal Solla.m4a
+Nov 01 18:45 : update: added Tamil/Hasili Fisiliye.m4a
+Nov 01 18:45 : update: added Tamil/Oru Maalai.m4a
+Nov 01 18:45 : update: added Tamil/Oh Penne.m4a
+Nov 01 18:45 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 01 18:46 : player: played "English/as_it_was.mp3"
+Nov 14 08:03 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 08:03 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 14 08:13 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 08:13 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 14 08:15 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 08:15 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 14 08:17 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 08:17 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 14 08:19 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 08:19 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 14 08:20 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 08:21 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 14 08:26 : player: played "BGM/Can_You_Hear_The_Music.m4a"
+Nov 14 22:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 14 22:34 : player: played "Tamil/cutie.aac"
+Nov 14 22:34 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 22:42 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 22:43 : player: played "Tamil/Aathi.m4a"
+Nov 14 22:48 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 22:48 : player: played "Tamil/Anbe En Anbe.m4a"
+Nov 14 23:00 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 23:00 : player: played "Tamil/En Kadhal Solla.m4a"
+Nov 14 23:05 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Nov 14 23:05 : player: played "Tamil/Hasili Fisiliye.m4a"
+Nov 14 23:11 : player: played "Tamil/Vizhi Moodi.m4a"
+Nov 14 23:14 : player: played "Tamil/Un Vizhigalil.m4a"
+Nov 14 23:17 : player: played "English/as_it_was.mp3"
+Nov 14 23:20 : player: played "English/I_Aint_Worried.mp3"
+Nov 14 23:24 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 14 23:24 : player: played "English/Perfect.m4a"
+Nov 14 23:26 : player: played "English/stay.mp3"
+Nov 15 08:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 15 08:06 : player: played "English/stay.mp3"
+Nov 15 08:06 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 15 09:32 : player: played "English/stay.mp3"
+Nov 15 13:25 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 15 14:19 : player: played "English/stay.mp3"
+Nov 15 16:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 15 16:40 : player: played "English/stay.mp3"
+Nov 15 16:41 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 16 00:29 : player: played "English/stay.mp3"
+Nov 16 10:29 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 16 13:28 : player: played "English/stay.mp3"
+Nov 16 13:29 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 16 20:49 : player: played "English/stay.mp3"
+Nov 16 21:38 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 17 19:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 18 00:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Nov 18 00:31 : player: played "English/Wellerman.webm"
+Nov 18 00:35 : player: played "English/Hymn for the Weekend.mp3"
+Nov 18 07:20 : player: played "English/Runaway.mp3"
+Nov 18 08:22 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 18 08:23 : player: played "English/Runaway.mp3"
+Nov 19 23:51 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 20 00:13 : player: played "English/as_it_was.mp3"
+Nov 20 06:02 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 20 07:16 : player: played "English/as_it_was.mp3"
+Nov 20 08:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 20 09:00 : player: played "English/as_it_was.mp3"
+Nov 20 09:03 : player: played "English/I_Aint_Worried.mp3"
+Nov 20 09:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 20 09:07 : player: played "English/Perfect.m4a"
+Nov 20 09:10 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Nov 20 09:10 : player: played "English/Wellerman.webm"
+Nov 20 11:12 : player: played "English/Let Me Down Slowly.mp3"
+Nov 20 12:13 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 20 13:07 : player: played "English/Let Me Down Slowly.mp3"
+Nov 20 13:34 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 20 14:43 : player: played "English/Let Me Down Slowly.mp3"
+Nov 20 16:00 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 21 08:04 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 21 14:25 : player: played "English/Let Me Down Slowly.mp3"
+Nov 21 15:37 : server_socket: bind to '0.0.0.0:9001' failed (continuing anyway, because binding to '[::]:9001' succeeded): Failed to bind socket: Address already in use
+Nov 21 15:40 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 21 15:43 : player: played "English/as_it_was.mp3"
+Nov 21 15:46 : player: played "English/I_Aint_Worried.mp3"
+Nov 21 15:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 21 15:50 : player: played "English/Perfect.m4a"
+Nov 21 15:53 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Nov 21 15:53 : player: played "English/Wellerman.webm"
+Nov 21 16:09 : player: played "English/Let Me Down Slowly.mp3"

@@ -24,7 +24,9 @@ alias vo="vopener"
 
 # music downloader
 alias msdw="yt-dlp -f 140"
+
 alias clear="clear && neofetch"
+alias yay="paru"
 
 alias vc="NVIM_APPNAME=nvim-nvchad vi"
 alias vn="NVIM_APPNAME=nvim-old vi"

@@ -99,3 +99,4 @@ bind 'set show-all-if-ambiguous on'
 bind 'TAB:menu-complete'
 eval "$(zoxide init bash)"
 eval "$(starship init bash)"
+. "$HOME/.cargo/env"

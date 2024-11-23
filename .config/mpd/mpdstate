@@ -1,10 +1,8 @@
-sw_volume: 60
+sw_volume: 70
 audio_device_state:1:pulse audio
 audio_device_state:1:Sarguru
 audio_device_state:1:my_fifo
-state: pause
-current: 4
-time: 7.607000
+state: stop
 random: 0
 repeat: 1
 single: 0
@@ -13,14 +11,4 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:English/Abba - Lay All Your Love On Me.m4a
-1:English/as_it_was.mp3
-2:English/ByeByeBye(Deadpool and Wolverine).m4a
-3:English/Eminem - Rap God.m4a
-4:English/Perfect.m4a
-5:English/Starboy.mp3
-6:English/stay.mp3
-7:English/Wellerman.webm
-8:English/Sweater Weather.mp3
-9:English/Under The Influence.mp3
 playlist_end

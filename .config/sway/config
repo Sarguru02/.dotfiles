@@ -21,6 +21,9 @@ set $filemanager thunar
 # is used in the bar {} block below.
 font pango:FiraCode Nerd Font 10
 
+for_window [class="^.*"] border pixel 2
+                          # class                 border  backgr. text    indicator child_border
+for_window [class="^.*"] client.focused          #77dd77 #285577 #ffffff #2e9ef4   #285577
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
@@ -55,7 +58,7 @@ bindsym $mod+Return exec kitty
 # kill focused window
 bindsym $mod+Shift+q kill
 
-bindsym $mod+l exec /home/sarguru/.local/scripts/block
+bindsym $mod+l exec swaylock
 # start dmenu (a program launcher)
 # A more modern dmenu replacement is rofi:
 bindcode $mod+40 exec $launcher
@@ -235,6 +238,7 @@ bar {
 }
 
 bindsym $mod+Shift+b exec --no-startup-id rofi-bluetooth
+bindsym $mod+Shift+n exec --no-startup-id networkmanager_dmenu
 
 ## Screenshots
 bindsym Print exec --no-startup-id grim ~/Pictures/Screenshots/$(date +%Y-%m-%d-%H-%M-%S).png
@@ -259,7 +263,7 @@ bindsym $mod+b exec brightnessctl set 6%
 bindsym $mod+c exec dunstctl close-all
 bindsym $mod+n exec dunstctl history-pop
 
-bindsym $mod+period exec /usr/bin/rofimoji
+bindsym $mod+period exec ~/.local/scripts/rofimoji
 
 
 for_window [app_id="emoji"] floating enable
@@ -281,3 +285,5 @@ input type:touchpad {
     tap enabled
 }
 bindsym XF86PowerOff exec $powermenu
+exec swayidle -w\
+    before-sleep 'swaylock -f -c 000000'

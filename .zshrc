@@ -1,3 +1,4 @@
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
 
@@ -38,3 +39,22 @@ export NVM_DIR="$HOME/.nvm"
 eval "$(zoxide init zsh)"
 neofetch
 
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/sarguru/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/sarguru/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/sarguru/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/sarguru/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+
+# bun completions
+[ -s "/home/sarguru/.bun/_bun" ] && source "/home/sarguru/.bun/_bun"

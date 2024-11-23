@@ -47,15 +47,13 @@ const ll INF = 1e9;
 const ld EPS = 1e-9;
 
 /* clang-format on */
-void solve() {
-	
-}
+void solve() {}
 
 int main() {
 #ifndef ONLINE_JUDGE
   freopen("input.txt", "r", stdin);
   freopen("output.txt", "w", stdout);
-	freopen("debug.txt", "w", stderr);
+  freopen("debug.txt", "w", stderr);
 #endif
   ios_base::sync_with_stdio(0);
   cin.tie(0);
@@ -66,4 +64,8 @@ int main() {
     // cout << "Case #" << t << ": ";
     solve();
   }
+#ifndef ONLINE_JUDGE
+  cout << endl
+       << "finished in " << clock() * 1.0 / CLOCKS_PER_SEC << " sec\n\n";
+#endif
 }
