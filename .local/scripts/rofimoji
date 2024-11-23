@@ -1,10 +1,20 @@
 #!/bin/sh -e
 
-emoji=$(cat "$HOME/.config/menu/emoji.txt" | rofi -dmenu -p | sed 's/ .*//')
+dir="$HOME/.config/rofi/launchers/type-4"
+theme='style-1'
+emoji=$(cat "$HOME/.config/menu/emoji.txt" | rofi -dmenu -theme ${dir}/${theme}.rasi -p | sed 's/ .*//')
 
 if [ -z "$emoji" ]; then
     exit
 fi
 
-printf "$emoji" | xclip -sel clipboard
+# if XDG_CURRENT_DESKTOP is x11, then use xclip
+# else use wl-copy
+#
+#
+if [ "$XDG_CURRENT_DESKTOP" = "x11" ]; then
+		printf "$emoji" | xclip -sel clipboard
+else
+		printf "$emoji" | wl-copy
+fi
 echo "Copied $emoji to clipboard!"
