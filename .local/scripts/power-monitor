@@ -19,7 +19,7 @@ while true; do
 	# read the current state
 	if [[ $(cat "$BAT_STATUS") == "Discharging" ]]; then
 		if [[ $(cat "$BAT_CAP") -gt $LOW_BAT_PERCENT ]]; then
-			profile=$BAT_PROFILE
+			profile=$LOW_BAT_PROFILE
 		else
 			profile=$LOW_BAT_PROFILE
 		fi
