@@ -12,7 +12,7 @@ fi
 # else use wl-copy
 #
 #
-if [ "$XDG_CURRENT_DESKTOP" = "x11" ]; then
+if [ "$XDG_SESSION_TYPE" = "x11" ]; then
 		printf "$emoji" | xclip -sel clipboard
 else
 		printf "$emoji" | wl-copy

@@ -2,3 +2,4 @@
 require("config.opts")
 require("config.maps")
 require("config.lsp")
+require("config.floaterminal")
