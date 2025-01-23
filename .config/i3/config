@@ -10,9 +10,10 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 
-set $wp ~/Pictures/wallpapers/62.png
+set $wp ~/Pictures/wallpapers/op2.jpg
 set $mod Mod4
 set $alt Mod1
+set $powermenu ~/.config/rofi/powermenu/type-4/powermenu.sh
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -35,6 +36,8 @@ exec --no-startup-id dex --autostart --environment i3
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- /home/sarguru/.local/scripts/fancylock --nofork
+
+
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -71,10 +74,10 @@ bindsym $alt+l focus right
 bindsym $alt+h focus left
 
 # alternatively, you can use the cursor keys:
-bindsym $alt+Left focus left
-bindsym $alt+Down focus down
-bindsym $alt+Up focus up
-bindsym $alt+Right focus right
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
 
 # move focused window
 bindsym $mod+Shift+j move down
@@ -156,7 +159,8 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+# bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+e exec $powermenu
 
 mode "resize" {
         bindsym j resize shrink width 10 px or 10 ppt
@@ -239,6 +243,8 @@ bindsym $alt+period exec ~/.local/scripts/rofimoji
 bindsym $mod+o mode "Open"
 bindsym $alt+o mode "Open"
 
+exec --no-startup-id setxkbmap -option caps:escape,shift:both_capslock
+
 mode "Open"{
 	bindsym b exec brave; mode "default";
 	bindsym f exec firefox-developer-edition; mode "default";
@@ -254,6 +260,7 @@ mode "Open"{
 
 bindsym $mod+Shift+v exec xfce4-clipman-history
 
+bindsym XF86PowerOff exec notify-send blabla a
 #assignment for workspaces
 #assign [class="Spotify"] $ws3
 #assign [class="Brave-browser"] $ws8
@@ -261,6 +268,7 @@ assign [class="discord"] $ws4
 assign [class="kitty"] $ws1
 #assign [class="Slack"] $ws4
 assign [class="firefoxdeveloperedition"] $ws2
+assign [class="zen-alpha"] $ws2
 
 exec_always --no-startup-id picom 
 exec_always --no-startup-id dunst 

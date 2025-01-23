@@ -1,211 +1,82 @@
-@define-color LIME #73daca; /* green */
-@define-color STRAWBERRY #f7768e; /* red */
-@define-color BLUEBERRY #7aa2f7; /* blue */
-@define-color BANANA #e0af68; /* yellow */
-@define-color ORANGE #ff9e64; /* orange */
-
 * {
-    border: none;
-    font-family: "Monaspace Radon";
-    font-weight: bold;
-    font-size: 16px;
-    min-height: 0;
+	font-size: 15px;
+	font-family: monospace;
 }
 
 window#waybar {
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-    color: @theme_fg_color;
-    border-radius: 10px;
-    padding: 0px;
-    transition-duration: 1s;
-    box-shadow: none; /* remove shadow for full transparency */
+	background: #292b2e;
+	color: #fdf6e3;
 }
 
-tooltip {
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-    border-radius: 0px;
-    border-width: 2px;
-    border-style: solid;
-    border-color: rgba(26, 27, 38, 0.0); /* transparent border */
-    color: @theme_fg_color;
+#custom-right-arrow-dark,
+#custom-left-arrow-dark {
+	color: #1a1a1a;
 }
-
-#workspaces button {
-    margin-right: 0px;
-    color: mix(@theme_fg_color, @theme_bg_color, 0.4);
-    border-radius: 10px;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-}
-
-#workspaces button.active {
-    color: @theme_fg_color;
-}
-
-#workspaces button.focused {
-    color: @theme_fg_color;
-}
-
-#workspaces button.urgent {
-    color: @theme_fg_color;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-}
-
-#workspaces button:hover {
-    color: @theme_bg_color;
-    background-color: rgba(26, 27, 38, 0.0); /* transparent background */
-}
-
-#temperature {
-    color: mix(@STRAWBERRY, @theme_fg_color, 0.8);
-}
-
-#temperature.critical {
-    color: @STRAWBERRY;
-}
-
-#backlight {
-    color: mix(@BANANA, @theme_fg_color, 0.5);
-}
-
-#workspaces {
-    padding: 0px;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-}
-
-#media {
-    color: mix(@theme_selected_bg_color, @theme_fg_color, 0.5);
-}
-
-#custom-cava {
-    color: @theme_selected_bg_color;
-}
-
-#custom-euro {
-    color: @theme_selected_bg_color;
-}
-
-#custom-power_profile {
-    color: mix(@LIME, @theme_fg_color, 0.5);
-}
-
-#window {
-    color: @theme_fg_color;
-}
-
-#clock {
-    color: mix(@ORANGE, @theme_fg_color, 0.3);
+#custom-right-arrow-light,
+#custom-left-arrow-light {
+	color: #292b2e;
+	background: #1a1a1a;
 }
 
 #workspaces,
-#light,
-#audio {
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-}
-
-#custom-arch {
-    color: @theme_selected_bg_color;
-}
-
-#custom-quit {
-    color: mix(@BANANA, @theme_fg_color, 0.6);
-}
-
-#custom-lock {
-    color: mix(@LIME, @theme_fg_color, 0.6);
-}
-
-#custom-sleep {
-    color: mix(@BLUEBERRY, @theme_fg_color, 0.6);
-}
-
-#custom-reboot {
-    color: mix(@ORANGE, @theme_fg_color, 0.6);
-}
-
-#custom-shutdown {
-    color: mix(@STRAWBERRY, @theme_fg_color, 0.6);
-}
-
-#network {
-    color: mix(@BANANA, @theme_fg_color, 0.4);
-}
-
-#bluetooth {
-    color: mix(@BLUEBERRY, @theme_fg_color, 0.3);
-}
-
-#pulseaudio:not(.microphone) {
-    color: mix(@BANANA, @theme_fg_color, 0.5);
-}
-
-#pulseaudio.microphone {
-    color: mix(@LIME, @theme_fg_color, 0.5);
-}
-
-#pulseaudio.bluetooth:not(.microphone) {
-    color: mix(@BLUEBERRY, @theme_fg_color, 0.5);
-}
-
-#pulseaudio.muted:not(.microphone) {
-    color: mix(@STRAWBERRY, @theme_fg_color, 0.5);
-}
-
-#pulseaudio.microphone.source-muted {
-    color: mix(@STRAWBERRY, @theme_fg_color, 0.5);
-}
-
-#battery {
-    color: mix(@LIME, @theme_fg_color, 0.5);
-}
-
-battery.bat2 {
-    color: mix(@LIME, @theme_fg_color, 0.5);
-}
-
-#custom-weather {
-    color: mix(@ORANGE, @theme_fg_color, 0.5);
-}
-
+#clock.1,
+#clock.2,
+#clock.3,
+#pulseaudio,
+#memory,
+#cpu,
+#battery,
+#disk,
 #tray {
-    padding: 0;
+	background: #1a1a1a;
 }
 
-window#waybar > box > box > widget > *,
-window#waybar > box > box > box {
-    margin: 0 5px;
-    border-radius: 10px;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
+#workspaces button {
+	padding: 0 2px;
+	color: #fdf6e3;
+}
+#workspaces button.focused {
+	background: #1a1a1a;
+	border: #1a1a1a;
+	color: #268bd2;
+}
+#workspaces button.hover {
+	box-shadow: inherit;
+	text-shadow: inherit;
+}
+#workspaces button.hover {
+	background: #1a1a1a;
+	border: #1a1a1a;
+	padding: 0 3px;
 }
 
-widget > * {
-    padding: 0 10px;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
+#workspaces button.active {
+	background: #1a1a1a;
+	border: #1a1a1a;
+	color: #268bd2;
 }
 
-slider {
-    min-height: 0px;
-    min-width: 0px;
-    opacity: 0;
-    background-image: none;
-    border: none;
-    box-shadow: none;
-    background-color: rgba(26, 27, 38, 0.0); /* transparent background */
+#pulseaudio {
+	color: #268bd2;
+}
+#memory {
+	color: #2aa198;
+}
+#cpu {
+	color: #6c71c4;
+}
+#battery {
+	color: #859900;
+}
+#disk {
+	color: #b58900;
 }
 
-trough {
-    min-height: 20px;
-    min-width: 80px;
-    border-radius: 10px;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-}
-
-highlight {
-    min-height: 10px;
-    border-radius: 10px;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
-}
-
-#light {
-    border-radius: 10px;
-    background: rgba(26, 27, 38, 0.0); /* transparent background */
+#clock,
+#pulseaudio,
+#memory,
+#cpu,
+#battery,
+#disk {
+	padding: 0 10px;
 }
