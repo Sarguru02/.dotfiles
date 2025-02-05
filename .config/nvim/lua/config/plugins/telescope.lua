@@ -25,10 +25,12 @@ return {
 					require("telescope.themes").get_dropdown(),
 				},
 			},
+			extensions_list = {"themes"}
 		})
 
 		pcall(require("telescope").load_extension, "fzf")
 		pcall(require("telescope").load_extension, "ui-select")
+		pcall(require("telescope").load_extension, "themes")
 
 		local builtin = require("telescope.builtin")
 		vim.keymap.set("n", "<leader>sh", builtin.help_tags, { desc = "[S]earch [H]elp" })

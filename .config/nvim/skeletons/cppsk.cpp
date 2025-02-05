@@ -14,43 +14,38 @@ template<typename Head, typename... Tail> void dbg_out(Head H, Tail... T) { cerr
 
 // definitions
 #define ar array
-#define ll long long
+#define int long long
 #define ld long double
 #define sza(x) ((int)x.size())
 #define all(a) (a).begin(), (a).end()
 #define PI 3.1415926535897932384626433832795
 #define umap unordered_map
+#define vi vector<int>
 
 //functions and loops
 #define f(i,s,e) for(long long int i=s;i<e;i++)
-#define cf(i,s,e) for(long long int i=s;i<=e;i++)
-#define rf(i,e,s) for(long long int i=e-1;i>=s;i--)
 #define pb push_back
 #define eb emplace_back
 
 
 
 //functions
-ll min(ll a,int b) { if (a<b) return a; return b; }
-ll min(int a,ll b) { if (a<b) return a; return b; }
-ll max(ll a,int b) { if (a>b) return a; return b; }
-ll max(int a,ll b) { if (a>b) return a; return b; }
-ll gcd(ll a,ll b) { if (b==0) return a; return gcd(b, a%b); }
-ll lcm(ll a,ll b) { return a/gcd(a,b)*b; }
 string to_upper(string a) { for (int i=0;i<(int)a.size();++i) if (a[i]>='a' && a[i]<='z') a[i]-='a'-'A'; return a; }
 string to_lower(string a) { for (int i=0;i<(int)a.size();++i) if (a[i]>='A' && a[i]<='Z') a[i]+='a'-'A'; return a; }
-bool prime(ll a) { if (a==1) return 0; for (int i=2;i<=round(sqrt(a));++i) if (a%i==0) return 0; return 1; }
+bool prime(int a) { if (a==1) return 0; for (int i=2;i<=round(sqrt(a));++i) if (a%i==0) return 0; return 1; }
 
 const int MAX_N = 1e5 + 5;
-const ll MOD = 1e9 + 7;
-const ll INF = 1e9;
+const int MOD = 1e9 + 7;
+const int INF = 1e9;
 const ld EPS = 1e-9;
 
 /* clang-format on */
-void solve() {}
+void solve() {
 
-int main() {
-#ifndef ONLINE_JUDGE
+}
+
+signed main() {
+#ifdef LOCAL
   freopen("input.txt", "r", stdin);
   freopen("output.txt", "w", stdout);
   freopen("debug.txt", "w", stderr);

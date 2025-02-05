@@ -1,5 +1,4 @@
 -- abcde
-vim.opt.guicursor = ""
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 vim.g.have_nerd_font = true
@@ -23,4 +22,8 @@ vim.opt.inccommand = "split"
 vim.opt.cursorline = true
 vim.opt.scrolloff = 10
 vim.opt.hlsearch = true
+vim.opt.mouse=""
 
+if vim.g.neovide then
+	vim.g.neovide_scale_factor = 0.65
+end

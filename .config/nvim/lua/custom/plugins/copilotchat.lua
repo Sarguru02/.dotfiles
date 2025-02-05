@@ -21,21 +21,6 @@ local prompts = {
 
 return {
 	{
-		"folke/which-key.nvim",
-		optional = true,
-		opts = {
-			spec = {
-				{ "<leader>a", group = "ai" },
-				{ "gm", group = "+Copilot chat" },
-				{ "gmh", desc = "Show help" },
-				{ "gmd", desc = "Show diff" },
-				{ "gmp", desc = "Show system prompt" },
-				{ "gms", desc = "Show selection" },
-				{ "gmy", desc = "Yank diff" },
-			},
-		},
-	},
-	{
 		dir = IS_DEV and "~/Projects/research/CopilotChat.nvim" or nil,
 		"CopilotC-Nvim/CopilotChat.nvim",
 		-- version = "v3.3.0", -- Use a specific version to prevent breaking changes
