@@ -1,6 +1,3 @@
--- relaxing keymap
--- vim.keymap.set("i", "jk", "<Esc>")
-
 -- needed keymap
 vim.keymap.set("n", "<Esc>", "<cmd>nohlsearch<CR>")
 
@@ -15,6 +12,17 @@ vim.keymap.set("n", "<C-h>", "<C-w><C-h>", { desc = "Move focus to the left wind
 vim.keymap.set("n", "<C-l>", "<C-w><C-l>", { desc = "Move focus to the right window" })
 vim.keymap.set("n", "<C-j>", "<C-w><C-j>", { desc = "Move focus to the lower window" })
 vim.keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper window" })
+
+vim.keymap.set("n", "<C-d>", "<C-d>zz")
+vim.keymap.set("n", "<C-u>", "<C-u>zz")
+-- temporary buffer if you need a scratch buffer
+vim.api.nvim_set_keymap('n', '<leader>n', ':new | setlocal buftype=nofile bufhidden=hide noswapfile<CR>', { noremap = true, silent = true })
+
+--[[##################################################
+--  #                                                #
+--  #            This is for CP                      #
+--  #                                                #
+--  ##################################################]]
 
 vim.keymap.set("n", "<leader>cp", function()
 	vim.cmd("read ~/.config/nvim/skeletons/cppsk.cpp")
@@ -41,3 +49,6 @@ vim.keymap.set("n", "<leader>sp", function()
 	vim.cmd("split output.txt")
 	vim.cmd("split debug.txt")
 end)
+--  ##################################################
+--  ##################################################
+
