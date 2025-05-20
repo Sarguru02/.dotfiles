@@ -18,6 +18,14 @@ vim.keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper win
 vim.keymap.set("n", "<C-u>","<C-u>zz")
 vim.keymap.set("n", "<C-d>","<C-d>zz")
 
+
+-- toggle line wrap
+vim.keymap.set('n', '<leader>w', function()
+  vim.wo.wrap = not vim.wo.wrap
+  print("Wrap " .. (vim.wo.wrap and "enabled" or "disabled"))
+end, { desc = "Toggle line wrap" })
+
+
 -- cool keybinding to switch projects while inside neovim
 -- ## requires the vopener script ##
 vim.keymap.set("n", "<C-f>", "<cmd>silent !tmux neww vopener<CR>")
@@ -27,13 +35,14 @@ vim.keymap.set("n", "<C-u>", "<C-u>zz")
 -- temporary buffer if you need a scratch buffer
 vim.api.nvim_set_keymap('n', '<leader>n', ':new | setlocal buftype=nofile bufhidden=hide noswapfile<CR>', { noremap = true, silent = true })
 
---[[##################################################
---  ##                                              ##
---  ##           This is for CP                     ##
---  ##                                              ##
---  ##################################################]]
+--[[ ##################################################
+--   ##                                              ##
+--   ##              This is for CP                  ##
+--   ##                                              ##
+--   ################################################## ]]
 
-vim.keymap.set("n", "<leader>cp", function()
+vim.keymap.set("n", "<leader>cp", function() -- instead of this I should most probably create this as a snippet
+  -- as if I am gonna continue competitive programming
 	vim.cmd("read ~/.config/nvim/skeletons/cppsk.cpp")
 	vim.cmd("50")
 end)
