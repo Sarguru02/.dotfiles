@@ -1,4 +1,3 @@
--- abcde
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 vim.g.have_nerd_font = true
@@ -15,8 +14,12 @@ vim.opt.updatetime = 250
 vim.opt.timeoutlen = 300
 vim.opt.splitright = true
 vim.opt.splitbelow = true
+
+-- convert tabs to spaces
 vim.opt.expandtab = true
 vim.opt.smarttab = false
+-- ##
+
 vim.opt.tabstop = 2
 vim.opt.softtabstop = 2
 vim.opt.shiftwidth = 2
@@ -24,8 +27,8 @@ vim.opt.inccommand = "split"
 vim.opt.cursorline = true
 vim.opt.scrolloff = 10
 vim.opt.hlsearch = true
-vim.opt.mouse=""
+vim.opt.mouse="nv"
 
-if vim.g.neovide then
-	vim.g.neovide_scale_factor = 0.65
-end
+
+vim.opt.showtabline = 1
+vim.opt.tabline = [[%!v:lua.require("config.ui").tabline()]]

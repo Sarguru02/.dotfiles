@@ -13,27 +13,13 @@ vim.keymap.set("n", "<C-l>", "<C-w><C-l>", { desc = "Move focus to the right win
 vim.keymap.set("n", "<C-j>", "<C-w><C-j>", { desc = "Move focus to the lower window" })
 vim.keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper window" })
 
-
 -- center current line in screen when doing PageUp or PageDown
 vim.keymap.set("n", "<C-u>","<C-u>zz")
 vim.keymap.set("n", "<C-d>","<C-d>zz")
 
-
--- toggle line wrap
-vim.keymap.set('n', '<leader>w', function()
-  vim.wo.wrap = not vim.wo.wrap
-  print("Wrap " .. (vim.wo.wrap and "enabled" or "disabled"))
-end, { desc = "Toggle line wrap" })
-
-
 -- cool keybinding to switch projects while inside neovim
 -- ## requires the vopener script ##
 vim.keymap.set("n", "<C-f>", "<cmd>silent !tmux neww vopener<CR>")
-
-vim.keymap.set("n", "<C-d>", "<C-d>zz")
-vim.keymap.set("n", "<C-u>", "<C-u>zz")
--- temporary buffer if you need a scratch buffer
-vim.api.nvim_set_keymap('n', '<leader>n', ':new | setlocal buftype=nofile bufhidden=hide noswapfile<CR>', { noremap = true, silent = true })
 
 --[[ ##################################################
 --   ##                                              ##
@@ -69,4 +55,3 @@ vim.keymap.set("n", "<leader>sp", function()
 end)
 --  ##################################################
 --  ##################################################
-
