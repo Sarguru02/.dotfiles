@@ -19,7 +19,6 @@ end
 -- plugin opts
 local opts = {
     style = "night",
-    -- transparent = true,
     terminal_colors = true,
     styles = {
         comments = { italic = true },
