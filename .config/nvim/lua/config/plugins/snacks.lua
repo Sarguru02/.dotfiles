@@ -417,11 +417,17 @@ local opts = {
 	picker = {
 		enabled = true,
 		sources = {
+      files = {
+        hidden=true,
+        ignored=true,
+      },
 			explorer = {
 				layout = { layout = { position = "right" } },
 				focus = "input",
 			},
 		},
+    hidden=true,
+    ignored=true,
 		focus = "input",
 		layout = {
 			cycle = true,
