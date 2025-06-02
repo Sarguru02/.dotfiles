@@ -30,4 +30,22 @@ vim.opt.hlsearch = true
 vim.opt.mouse = "nv"
 
 vim.opt.showtabline = 1
-vim.opt.tabline = [[%!v:lua.require("config.ui").tabline()]]
+
+vim.opt.fillchars = {
+    foldopen = "",
+    foldclose = "",
+    fold = " ",
+    foldsep = " ",
+    diff = "╱",
+    eob = " ",
+}
+vim.opt.list = true
+vim.opt.listchars = {
+    trail = "+",
+    space = " ",
+    nbsp = "␣",
+    eol = "↩",
+    tab = "› ",
+    extends = "»",
+    precedes = "«",
+}
