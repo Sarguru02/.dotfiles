@@ -14,8 +14,8 @@ vim.keymap.set("n", "<C-j>", "<C-w><C-j>", { desc = "Move focus to the lower win
 vim.keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper window" })
 
 -- center current line in screen when doing PageUp or PageDown
-vim.keymap.set("n", "<C-u>","<C-u>zz")
-vim.keymap.set("n", "<C-d>","<C-d>zz")
+vim.keymap.set("n", "<C-u>", "<C-u>zz")
+vim.keymap.set("n", "<C-d>", "<C-d>zz")
 
 -- cool keybinding to switch projects while inside neovim
 -- ## requires the vopener script ##
@@ -28,7 +28,7 @@ vim.keymap.set("n", "<C-f>", "<cmd>silent !tmux neww vopener<CR>")
 --   ################################################## ]]
 
 vim.keymap.set("n", "<leader>cp", function() -- instead of this I should most probably create this as a snippet
-  -- as if I am gonna continue competitive programming
+	-- as if I am gonna continue competitive programming
 	vim.cmd("read ~/.config/nvim/skeletons/cppsk.cpp")
 	vim.cmd("50")
 end)
