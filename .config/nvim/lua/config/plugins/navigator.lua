@@ -86,7 +86,7 @@ return {
     version = "*",
     enabled = true,
     lazy = true,
-    event = {},
+    event = {"VeryLazy"},
     cmd = {},
     ft = {},
     build = {},

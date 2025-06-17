@@ -32,8 +32,8 @@ local init = function() end
 -- plugin opts
 local opts = {
 	diagnostics = {
-		underline = false,
-		virtual_text = false,
+		underline = true,
+		virtual_text = true,
 		virtual_lines = false,
 		update_in_insert = false,
 		severity_sort = true,
