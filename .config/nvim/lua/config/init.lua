@@ -11,3 +11,9 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 	end,
 })
 
+vim.api.nvim_create_autocmd({ "BufRead", "BufNewFile" }, {
+  pattern = "*.csv",
+  callback = function()
+    vim.cmd("CsvViewEnable display_mode=border header_lnum=1")
+  end,
+})
