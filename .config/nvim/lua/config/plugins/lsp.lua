@@ -277,6 +277,10 @@ local config = function(_, opts)
 		keymap.set("n", "gK", function()
 			lsp.buf.signature_help({ border = "rounded", focusable = true })
 		end, { desc = "lsp signature help", buffer = buffer })
+
+		keymap.set("n", "<leader>e", function()
+      diagnostic.open_float()
+		end, { desc = "lsp signature help", buffer = buffer })
 	end
 
 	local setup = function(server)

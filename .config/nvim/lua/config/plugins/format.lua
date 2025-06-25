@@ -17,7 +17,7 @@ return {
 			lua = { "stylua" },
 			python = { "black" },
 			javascript = { { "prettierd", "prettier" } },
-			html = { "prettierd" },
+			html = { "prettier", "prettierd" },
 			css = { "prettierd" },
 			go = { "gofumpt" },
 			json = { "prettierd" },
