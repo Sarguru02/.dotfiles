@@ -1,6 +1,11 @@
 local fn = vim.fn
 local opts = {
-	keymap = { preset = "default" },
+	keymap = {
+		preset = "default",
+    ['<C-l>'] = {'select_next', 'fallback'},
+    ['Tab'] = nil,
+    ['<C-h>'] = {'select_prev', 'fallback'},
+	},
 
 	appearance = {
 		nerd_font_variant = "mono",

@@ -20,6 +20,7 @@ end
 local opts = {
     style = "night",
     terminal_colors = true,
+    transparent = true,
     styles = {
         comments = { italic = true },
         keywords = { italic = true },

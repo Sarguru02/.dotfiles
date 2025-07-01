@@ -1,6 +1,7 @@
 require("config.opts")
 require("config.lazy")
 require("config.maps")
+require("config.tabs")
 
 
 vim.api.nvim_create_autocmd("TextYankPost", {
@@ -9,11 +10,4 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 	callback = function()
 		vim.highlight.on_yank()
 	end,
-})
-
-vim.api.nvim_create_autocmd({ "BufRead", "BufNewFile" }, {
-  pattern = "*.csv",
-  callback = function()
-    vim.cmd("CsvViewEnable display_mode=border header_lnum=1")
-  end,
 })
