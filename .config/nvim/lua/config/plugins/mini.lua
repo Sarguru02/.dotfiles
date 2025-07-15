@@ -35,14 +35,5 @@ return {
 		end,
     lazy=true,
     event = { "VeryLazy"},
-	},
-  {
-		"echasnovski/mini.diff",
-    version = "*",
-    config = function ()
-      require("mini.diff").setup()
-    end,
-    lazy=true,
-    event = {"VeryLazy"},
-  },
+	}
 }

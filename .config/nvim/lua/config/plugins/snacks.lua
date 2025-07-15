@@ -492,7 +492,6 @@ local opts = {
 		toggles = {
 			dim = true,
 			git_signs = true,
-			mini_diff_signs = true,
 			diagnostics = true,
 			inlay_hints = true,
 		},
@@ -504,7 +503,6 @@ local opts = {
 			toggles = {
 				dim = false,
 				git_signs = true,
-				mini_diff_signs = true,
 				diagnostics = true,
 				inlay_hints = true,
 			},
