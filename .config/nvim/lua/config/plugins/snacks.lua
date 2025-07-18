@@ -79,6 +79,16 @@ local keys = {
 		silent = true,
 		desc = "find the git diff",
 	},
+  {
+    "<leader>gb",
+    mode = {"n"},
+    function()
+      Snacks.git.blame_line()
+    end,
+    noremap=true,
+    silent = true,
+    desc = "get git blame in a separate buffer"
+  },
 
 	-- find files keymaps
 	{
@@ -256,16 +266,6 @@ local keys = {
 		desc = "hide all the notifications",
 	},
 	{
-		"<C-n>",
-		mode = { "n" },
-		function()
-			Snacks.explorer.open()
-		end,
-		noremap = true,
-		silent = true,
-		desc = "open the snacks explorer",
-	},
-	{
 		"<leader>zz",
 		mode = { "n" },
 		function()
@@ -282,6 +282,18 @@ local dashboard = {
 	width = 60,
 	row = nil,
 	col = nil,
+  preset = {
+    keys = {
+      { icon = " ", key = "f", desc = "Find File", action = ":lua Snacks.dashboard.pick('files')" },
+      { icon = " ", key = "n", desc = "New File", action = ":ene | startinsert" },
+      { icon = "", key = "g", desc="LazyGit", action = ":lua Snacks.lazygit.open()"},
+      { icon = " ", key = "s", desc = "Find Text", action = ":lua Snacks.dashboard.pick('live_grep')" },
+      { icon = " ", key = "r", desc = "Recent Files", action = ":lua Snacks.dashboard.pick('oldfiles')" },
+      { icon = " ", key = "c", desc = "Config", action = ":lua Snacks.dashboard.pick('files', {cwd = vim.fn.stdpath('config')})" },
+      { icon = "󰒲 ", key = "L", desc = "Lazy", action = ":Lazy", enabled = package.loaded.lazy ~= nil },
+      { icon = " ", key = "q", desc = "Quit", action = ":qa" },
+    }
+  },
 	sections = {
 		{ section = "header", gap = 1, padding = 2 },
 		{ section = "keys", gap = 1, padding = 1 },
@@ -319,8 +331,7 @@ local opts = {
 		},
 	},
 	explorer = {
-		enabled = true,
-		replace_netrw = true,
+		enabled = false,
 	},
 	git = { enabled = true },
 	image = {
